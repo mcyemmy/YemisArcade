@@ -4,7 +4,7 @@ Online Portfolio
 - Tools - Git, Jade/Html5, Bootstrap, CSS3/stylus, AngularJs, Grunt
 - Pages - Home, About, ProfessionalExperiences, Education, Hobby, FavoriteQuotes
 - Home page - Huge Graphical background(fixed on body element), center-aligned content(70%), 3D-CSS3 top links, Page transitioning effect
-- Links - Bootstrap(github.com/twbs/bootstrap)
+- Bootstrap(github.com/twbs/bootstrap)
 -
 -
 -
