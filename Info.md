@@ -5,9 +5,9 @@ Online Portfolio
 - Pages - Home, About, ProfessionalExperiences, Education, Hobby, FavoriteQuotes
 - Home page - Huge Graphical background(fixed on body element), center-aligned content(70%), 3D-CSS3 top links, Page transitioning effect
 - Bootstrap(github.com/twbs/bootstrap)
--.
--
--
+-xx
+-xx
+-xx
 -
 -
 // other to transfer notes
