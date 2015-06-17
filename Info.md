@@ -12,7 +12,7 @@ Online Portfolio
 -
 
 other to transfer notes
----- To Study
+To Study
 - Advanced Javascript/ CSS Stunts /blog
 - Advanced CSS / CSS Stunts/ blog
 - html5/ css3/ CSS Stunts/ blog
