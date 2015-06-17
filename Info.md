@@ -11,7 +11,7 @@ Online Portfolio
 -
 -
 
-other to transfer notes
+other notes to transfer
 - //To Study
 - Advanced Javascript/ CSS Stunts /blog
 - Advanced CSS / CSS Stunts/ blog
