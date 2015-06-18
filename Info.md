@@ -3,8 +3,9 @@
 Online Portfolio
 - Tools - Git, Jade/Html5, Bootstrap, CSS3/stylus, AngularJs, Grunt
 - Pages - Home, About, ProfessionalExperiences, Education, Hobby, FavoriteQuotes
-- Home page - Huge Graphical background(fixed on body element), center-aligned content(70%), 3D-CSS3 top links, Page transitioning effect
+- Home page - My picture as page background(https://css-tricks.com/perfect-full-page-background-image/), center-aligned content on white bg(to cover 70% of entire page), 
 - Bootstrap(github.com/twbs/bootstrap)
+- All other pages - 3D-CSS3 top links(), Page transitioning effect(), Fixed Banner style(https://www.udacity.com/nanodegree)
 -xx
 -xx
 -xx
