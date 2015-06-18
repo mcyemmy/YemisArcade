@@ -63,5 +63,6 @@ Git Setup - http://rogerdudler.github.io/git-guide/, http://git-scm.com/
 
 ///
 CSS
+Setting up stylus - http://blog.teamtreehouse.com/getting-started-stylus
 vh, vw, vmin, vmax are percentage values relative to the viewport while x% is a percentage value relative to native/natural pixel value of 16px
 http://bricss.net/
