@@ -63,3 +63,6 @@
 - vh, vw, vmin, vmax are percentage values relative to the viewport while x% is a percentage value relative to native/natural pixel value of 16px
 - http://bricss.net/
 - Stylus - http://blog.teamtreehouse.com/getting-started-stylus and https://github.com/stylus/stylus
+- 
+//
+- Text Editors - https://atom.io, http://brackets.io, http://sublimetext.com/
