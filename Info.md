@@ -5,13 +5,8 @@
 - Home page - My picture as page background(https://css-tricks.com/perfect-full-page-background-image/), center-aligned content on white bg(to cover 70% of entire page), 
 - Bootstrap(github.com/twbs/bootstrap)
 - All other pages - Single page app(Angular,sectionalized), 3D-CSS3 top links(), Page transitioning effect(), Fixed Banner style(https://www.udacity.com/nanodegree)
--xx
--xx
--xx
--
--
 
-- //To Study recommendations for beginners
+- To Study recommendations for beginners
 - Stylus - http://blog.teamtreehouse.com/getting-started-stylus and https://github.com/stylus/stylus
 - Advanced Javascript/ JQuery / AngularJs / Javascript blogBook (See below under javascript)
 - CSS3 / CSS3 blog
@@ -21,7 +16,7 @@
 -  GIT / Gulp / Grunt / fiddler / Javascript tools blog
 - Quiz / codeschool/ codecombat/ elevetorsaga
 
-///Links
+- Links
 *-- Job site- linkedIn, cyberCoders, indeed, careerBuilder, Dice, 
 *-- blogs - bricss.net, creativebloq.com/web-design/examples-css-912710, wikiConnect, htm5rocks, smashing magazine, css-tricks, sixrevisions, techcrunch, sitepoint, tutsplus, techrepublic, geek.com, engadget
 *-- Js interview questions - stackoverflow.com/questions/1684917/what-questions-should-a-javascript-programmer-be-able-to-answer
