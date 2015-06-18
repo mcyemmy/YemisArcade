@@ -14,6 +14,7 @@ Online Portfolio
 
 other notes to transfer
 - //To Study
+- Stylus - github.com/stylus/stylus and blog.teamtreehouse.com/getting-started-stylus
 - Advanced Javascript/ JQuery / AngularJs / Javascript blog
 - CSS3 / CSS3 blog
 - html5/ html5 blog
