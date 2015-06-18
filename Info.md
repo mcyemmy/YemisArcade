@@ -9,7 +9,7 @@
 //
 - To Study recommendations for beginners
 - Stylus - http://blog.teamtreehouse.com/getting-started-stylus and https://github.com/stylus/stylus
-- Advanced Javascript/ JQuery / AngularJs / Javascript blogBook (See below under javascript)
+- Advanced Javascript/ JQuery / AngularJs / Javascript blogBook (See links below under javascript)
 - CSS3 / CSS3 blog
 - html5/ html5 blog
 - Responsive  / Bootstraping / Accessibility
@@ -20,7 +20,7 @@
 - Links
 - Job site- linkedIn, cyberCoders, indeed, careerBuilder, Dice, 
 - blogs - bricss.net, creativebloq.com/web-design/examples-css-912710, wikiConnect, htm5rocks, smashing magazine, css-tricks, sixrevisions, techcrunch, sitepoint, tutsplus, techrepublic, geek.com, engadget
-- Js interview questions - stackoverflow.com/questions/1684917/what-questions-should-a-javascript-programmer-be-able-to-answer
+- Online Tutorials - http://www.webmonkey.com/tutorials, youtube.com
 
 // 
 - MobileAppDev
@@ -37,9 +37,10 @@
 
 //
 - Javascript
-- Blogs - http://javascriptweekly.com, http://html5weekly.com, jsTheRightWay.org
+- Blogs - http://javascriptweekly.com, http://html5weekly.com, jsTheRightWay.org, http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html
 - Workshops -  http://nodeschool.io/#workshoppers
-- Books (on 4shared)- http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide, Pragmatic Programmer, javascript design pettern by Addy osmani
+- Online Tutorials - http://www.webmonkey.com/tutorials, http://www.xul.fr/javascript/, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+- Books (on 4shared)- Pragmatic Programmer, javascript design pettern by Addy osmani
 - Js interview questions - stackoverflow.com/questions/1684917/what-questions-should-a-javascript-programmer-be-able-to-answer
 - Javascript code should always be minified and obfuscated before deployment for security reasons.
 - Object-oriented - Has intrisic PropertiesData(Nouns) and funtionsMethods(Verbs). it is reusable and inheritable.
