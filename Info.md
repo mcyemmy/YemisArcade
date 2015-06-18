@@ -1,6 +1,5 @@
 
 
-Online Portfolio
 - Tools - Git, Jade/Html5, Bootstrap, CSS3/stylus, AngularJs, Grunt
 - Pages - Home, About, ProfessionalExperiences, Education, Hobby, FavoriteQuotes
 - Home page - My picture as page background(https://css-tricks.com/perfect-full-page-background-image/), center-aligned content on white bg(to cover 70% of entire page), 
@@ -12,10 +11,9 @@ Online Portfolio
 -
 -
 
-other notes to transfer
-- //To Study
+- //To Study recommendations for beginners
 - Stylus - http://blog.teamtreehouse.com/getting-started-stylus and https://github.com/stylus/stylus
-- Advanced Javascript/ JQuery / AngularJs / Javascript blog
+- Advanced Javascript/ JQuery / AngularJs / Javascript blogBook (See below under javascript)
 - CSS3 / CSS3 blog
 - html5/ html5 blog
 - Responsive  / Bootstraping / Accessibility
@@ -25,8 +23,7 @@ other notes to transfer
 
 ///Links
 *-- Job site- linkedIn, cyberCoders, indeed, careerBuilder, Dice, 
-*-- blogs - bricss.net, creativebloq.com/web-design/examples-css-912710, jsTheRightWay.org, wikiConnect, htm5rocks, smashing magazine, css-tricks, sixrevisions, techcrunch, sitepoint, tutsplus, techrepublic, geek.com, engadget
-*-- GIT Explained - http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1, http://rogerdudler.github.io/git-guide/, http://git-scm.com/
+*-- blogs - bricss.net, creativebloq.com/web-design/examples-css-912710, wikiConnect, htm5rocks, smashing magazine, css-tricks, sixrevisions, techcrunch, sitepoint, tutsplus, techrepublic, geek.com, engadget
 *-- Js interview questions - stackoverflow.com/questions/1684917/what-questions-should-a-javascript-programmer-be-able-to-answer
 Linux
 
@@ -45,6 +42,9 @@ fluid-elastic - Actual dimension changes with browser resizing
 
 ///
 Javascript
+Blogs - http://javascriptweekly.com, http://html5weekly.com, jsTheRightWay.org
+Workshops -  http://nodeschool.io/#workshoppers
+Books - http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide, Pragmatic Programmer, javascript design pettern by Addy osmani
 Javascript code should always be minified and obfuscated before deployment for security reasons.
 Object-oriented - Has intrisic PropertiesData(Nouns) and funtionsMethods(Verbs). it is reusable and inheritable.
 Object-oriented in Javascripts allows inheritance but is not class-based
@@ -60,6 +60,7 @@ The version control System is a remote system that makes it possible to maintain
 3 most common vcs are CVS, SVN and GIT. GIT is distributed, others are not.
 Git's web-based hosting service is github. Competitors are mercurial/Bitbucket
 Git Setup - http://rogerdudler.github.io/git-guide/, http://git-scm.com/
+GIT Explained - http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1, http://rogerdudler.github.io/git-guide/, http://git-scm.com/
 
 
 ///
@@ -67,3 +68,4 @@ CSS
 Setting up stylus - http://blog.teamtreehouse.com/getting-started-stylus
 vh, vw, vmin, vmax are percentage values relative to the viewport while x% is a percentage value relative to native/natural pixel value of 16px
 http://bricss.net/
+Stylus - http://blog.teamtreehouse.com/getting-started-stylus and https://github.com/stylus/stylus
