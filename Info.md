@@ -39,8 +39,8 @@
 - Javascript
 - Blogs - TheWeeklyEmailsSubs, jsTheRightWay.org, http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html
 - Workshops -  http://nodeschool.io/#workshoppers
-- Online Tutorials - http://www.webmonkey.com/tutorials, http://www.xul.fr/javascript/, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
-- Books (on 4shared)- Pragmatic Programmer, javascript design pettern by Addy osmani, JavaScript: The Good Parts, Pro JavaScript Design Patterns
+- Online Tutorials - http://www.webmonkey.com/tutorials, http://www.xul.fr/javascript/, http://addyosmani.com/resources/essentialjsdesignpatterns/book/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+- Books (on 4shared)- Pragmatic Programmer, javascript design pettern by Addy osmani(link above under online tutorial), JavaScript: The Good Parts, Pro JavaScript Design Patterns
 - Js interview questions - stackoverflow.com/questions/1684917/what-questions-should-a-javascript-programmer-be-able-to-answer
 - Javascript code should always be minified and obfuscated before deployment for security reasons.
 - Object-oriented - Has intrisic PropertiesData(Nouns) and funtionsMethods(Verbs). it is reusable and inheritable.
