@@ -23,7 +23,7 @@
 - Js interview questions - stackoverflow.com/questions/1684917/what-questions-should-a-javascript-programmer-be-able-to-answer
 
 // 
-MobileAppDev
+- MobileAppDev
 - Prototyper and supersonic by appgyver, firebase, Sencha/Appcelerator, intel XDK, Phonegap/Cordova
 
 //
