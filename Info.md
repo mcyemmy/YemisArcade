@@ -5,7 +5,7 @@ Online Portfolio
 - Pages - Home, About, ProfessionalExperiences, Education, Hobby, FavoriteQuotes
 - Home page - My picture as page background(https://css-tricks.com/perfect-full-page-background-image/), center-aligned content on white bg(to cover 70% of entire page), 
 - Bootstrap(github.com/twbs/bootstrap)
-- All other pages - 3D-CSS3 top links(), Page transitioning effect(), Fixed Banner style(https://www.udacity.com/nanodegree)
+- All other pages - Single page app(Angular,sectionalized), 3D-CSS3 top links(), Page transitioning effect(), Fixed Banner style(https://www.udacity.com/nanodegree)
 -xx
 -xx
 -xx
@@ -14,14 +14,12 @@ Online Portfolio
 
 other notes to transfer
 - //To Study
-- Advanced Javascript/ CSS Stunts /blog
-- Advanced CSS / CSS Stunts/ blog
-- html5/ css3/ CSS Stunts/ blog
-- Javascript tools / Gulp / fiddler / blog
-- CSS tools / Responsive / Accessibility  / Bootstraping / blog
-- Javascript Frameworks / jquery/ AngularJs/ Dojo/ blog
-- CSS Frameworks / SassStylus / blog
-- GIT / webdev tools / chromeDevTool/ blog
+- Advanced Javascript/ JQuery / AngularJs / Javascript blog
+- CSS3 / CSS3 blog
+- html5/ html5 blog
+- Responsive  / Bootstraping / Accessibility
+- Chrome Dev Tool
+-  GIT / Gulp / Grunt / fiddler / Javascript tools blog
 - Quiz / codeschool/ codecombat/ elevetorsaga
 
 ///Links
@@ -46,12 +44,13 @@ fluid-elastic - Actual dimension changes with browser resizing
 
 ///
 Javascript
+Javascript code should always be minified and obfuscated before deployment for security reasons.
 Object-oriented - Has intrisic PropertiesData(Nouns) and funtionsMethods(Verbs). it is reusable and inheritable.
 Object-oriented in Javascripts allows inheritance but is not class-based
-undefine is no-assignment, null is null-assigned.
+undefine is no-assignment, null is empty-assignment. 
 undefined*2=NaN, Null*2=0.
-Hoisting is a concept in Javascript that lets you make reference to refer to a variable before it is declared(or declared down the line), without getting an exception.
-A closure is an inner function that remember the environment in which it was created without allowing external functions to change its parent's(or private) variable. And unlike functions that use local variables which are deleted when execution completes, they do not lose the value of their parents variable after execution has been completed.
+Hoisting is a concept in Javascript that lets you make reference to a variable before it is declared(or declared down the line), without getting an exception.
+A closure is an inner function that remember the environment in which it was created (without allowing external functions to change its parent's(or private) variable). And unlike functions that use local variables which are deleted when execution completes, they do not lose the value of their parents variable after execution has been completed.
 
 ///
 VCS / GIT
