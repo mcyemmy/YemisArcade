@@ -68,4 +68,5 @@
 - Dev Tools
 - Text Editors - https://atom.io, http://brackets.io, http://sublimetext.com/
 - Console (Use with any shell of choice) - http://sourceforge.net/projects/console/
-- Shell - http://www.gnu.org/software/bash/
+- Bash Shell download - http://www.gnu.org/software/bash/
+- Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
