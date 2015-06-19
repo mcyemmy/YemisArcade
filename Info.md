@@ -67,5 +67,5 @@
 //
 - Dev Tools
 - Text Editors - https://atom.io, http://brackets.io, http://sublimetext.com/
-- Console (Use with any shell of choice) - http://sourceforge.net/projects/console-devel/?source=directory
+- Console (Use with any shell of choice) - http://sourceforge.net/projects/console/
 - Shell - http://www.gnu.org/software/bash/
