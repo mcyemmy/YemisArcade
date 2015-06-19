@@ -68,6 +68,6 @@
 - Dev Tools
 - Text Editors - https://atom.io, http://brackets.io, http://sublimetext.com/
 - Console Terminal Download (Use with any shell of choice, maybe Bash) - http://sourceforge.net/projects/console/
-- Console Terminal Setup - http://lifehacker.com/5834755/how-can-i-make-the-windows-command-prompt-better#
+- Console Terminal Setup - http://lifehacker.com/5834755/how-can-i-make-the-windows-command-prompt-better# (Go to Edit >> settings and add this under shell so as to point to GIT bash ("C:\Program Files (x86)\Git\bin\sh.exe" --login -i)
 - Bash Shell download - http://www.gnu.org/software/bash/
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
