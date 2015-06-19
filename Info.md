@@ -67,6 +67,7 @@
 //
 - Dev Tools
 - Text Editors - https://atom.io, http://brackets.io, http://sublimetext.com/
-- Console (Use with any shell of choice) - http://sourceforge.net/projects/console/
+- Console Terminal Download (Use with any shell of choice, maybe Bash) - http://sourceforge.net/projects/console/
+- Console Terminal Setup - http://lifehacker.com/5834755/how-can-i-make-the-windows-command-prompt-better#
 - Bash Shell download - http://www.gnu.org/software/bash/
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
