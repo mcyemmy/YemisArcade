@@ -51,9 +51,9 @@
 
 //
 - VCS / GIT
-- The version control System is a remote system that makes it possible to maintain a repository of code one place, which lets multiple developers work on it simultaneously
-- 3 key ingredients of a Version control System are Repos, branches and Revision history
-- Git's web-based hosting service is github. Competitors are mercurial/Bitbucket
+- Version control System is a system that makes it possible to maintain a repository of code in one place so that multiple developers can work on a project simultaneously.
+- 3 key ingredients of a Version control System are Repository, branches and Revision history
+- Github is Git's web-based hosting service. Competitors are mercurial/Bitbucket
 - Git Setup - http://rogerdudler.github.io/git-guide/, http://git-scm.com/
 - GIT Explained - http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1, http://rogerdudler.github.io/git-guide/, http://git-scm.com/
 
