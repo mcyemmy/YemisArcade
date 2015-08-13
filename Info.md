@@ -73,5 +73,4 @@
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 
 //
-- AtlanticCity - Lucy the Elephant in Margate(Sat1, 10-7), HorseRiding(Sat2a), BoardWalk(Sat2b), BeachRelaxingSwimming(Sat3), ResortsCasino@Tropicana@Tajmahal(Sat4), PartyNight(Sat5), HorseRiding(Sun1), BoardWalk(Sun2), friendsVisit(Sun3), BeachRelaxingSwimming(Sun4), PartyNight(Sun5), 
-Ask about - foodCouponsFromHotelFor NearbyRestaurant
+- A
