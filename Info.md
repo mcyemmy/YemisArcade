@@ -73,11 +73,4 @@
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 
 //
-- But I discipline my body and bring it into subjection, lest, when I have preached to others, I myself should become disqualified. 1 Corinthians 9:27
-- The thief does not come except to steal, and to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly. John 10:10
--  For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich. 2 Corinthians 8:9
-- Command those who are rich in this present age not to be haughty, nor to trust in uncertain riches but in the living God, who gives us richly all things to enjoy. 1 Timothy 6:17
--  Rejoice always, 17 pray without ceasing, 18 in everything give thanks; for this is the will of God in Christ Jesus for you. 1 Thessalonians 5:16-18
--   Do not quench the Spirit. 20 Do not despise prophecies. 21 Test all things; hold fast what is good. 22 Abstain from every form of evil. 1 Thessalonians 5:19-22
-- Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God; Philipians 4:6
-- But those who wait on the Lord Shall renew their strength; They shall mount up with wings like eagles, They shall run and not be weary, They shall walk and not faint. isaiah 40:31
+- A
