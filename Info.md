@@ -73,5 +73,4 @@
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 
 //
-- Monthly - Review forex performance, follow trend on Day chart, Trailing Profit 300 
-- 10Years - Review 401k allocation at age 40, 50, and 60. Reduce growth and aggressive growth allocation
+- A
