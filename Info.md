@@ -10,8 +10,8 @@
 - Study recommendations for beginners
 - Stylus - http://blog.teamtreehouse.com/getting-started-stylus and https://github.com/stylus/stylus
 - Advanced Javascript/ JQuery / AngularJs / Javascript blogBook (See links below under javascript)
-- CSS3 / CSS3 blog
-- html5/ html5 blog
+- CSS / CSS blog - http://css-weekly.com/issue-176/
+- html5/ html5 blog - http://html5weekly.com/issues/196
 - Responsive  / Bootstraping / Accessibility
 - Chrome Dev Tool
 -  GIT / Gulp / Grunt / fiddler / Javascript tools blog
