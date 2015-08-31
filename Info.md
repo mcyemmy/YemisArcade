@@ -73,5 +73,20 @@
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 
 //
-- Statue Island(ferry), Empire state building, World trade center, 
-Time square, rockefeller center, China towns, Radio music city
+- ThuFri 9/3 newyork shopping/Visit
+SatSun 9/5 Atlantic city
+Mon 9/7 Visit friends in NJ
+Tue 9/8 CityRideDcBaltimore, DcWhiteHouse,  DcMemorialsAndMuseum,  BmoreBlackHistoryMuseum,  innerharbor,  TransformerOlojugba,  laptopDebo,  bolaSegunDocsToluShip
+Wed 9/9 DocAppt &amp;amp; rest
+Thur 9/10 Rest,  plan
+
+New York Shopping 
+garmentDistrict@Manhattan,  Soho,  century21@GroundZero, newyork&amp;amp; Company, joeFresh, Chinatown 
+
+Items to buy - 
+Traditional attires,  workChurch gowns,  necklaceEaring combinations
+
+New York visits
+Statue Island(ferry), Empire state building, World trade center&amp;amp; Memorial, Time square, rockefeller center, China towns, Radio music city
+
+Atlantic City
