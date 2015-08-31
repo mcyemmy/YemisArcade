@@ -73,4 +73,5 @@
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 
 //
-- A
+- Statue Island(ferry), Empire state building, World trade center, 
+Time square, rockefeller center, China towns, Radio music city
