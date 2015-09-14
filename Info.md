@@ -73,4 +73,6 @@
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 
 //
-- Beach/Boardwalk/Trump Taj Mahal - 1000 Virginia Avenue, Atlantic City, NJ 08401, 1000 Boardwalk, Atlantic City, NJ 08401
+- For whoever exalts himself will be humbled, and he who humbles himself will be exalted.
+Luke 14:11
+
