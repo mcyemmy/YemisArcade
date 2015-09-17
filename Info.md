@@ -74,6 +74,7 @@
 
 //
 - For whoever exalts himself will be humbled, and he who humbles himself will be exalted. Luke 14:11
+- Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. 8 For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life. Galatians 6:7-8
 - But He gives more grace. Therefore He says: “God resists the proud, But gives grace to the humble". James 4:6
 - But I discipline my body and bring it into subjection, so when I have preached to others, I myself may not become disqualified. 1 Corinthians 9:27 (Notes: Bringing myself under subjection to the law of God through Christ)
 - The thief does not come except to steal, to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly. John 10:10
@@ -84,8 +85,7 @@
 - Do not quench the Spirit. 20 Do not despise prophecies. 21 Test all things; hold fast what is good. 22 Abstain from every form of evil. 1 Thessalonians 5:19-22
 - But those who wait on the Lord Shall renew their strength; They shall mount up with wings like eagles, They shall run and not be weary, They shall walk and not faint. isaiah 40:31
 - For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end. Jeremiah 29:11
-- Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. 8 For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life. Galatians 6:7-8
-- He who covers his sins will not prosper, but whoever confesses and forsakes them will have mercy. Proverbs 28:13
+- - He who covers his sins will not prosper, but whoever confesses and forsakes them will have mercy. Proverbs 28:13
 - For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do Eph 2:10
 - When you pray, be helpless before God because Prayer is the child’s helpless cry to the Father’s attentive ear. Psalm 121:1
 - Use what God has blessed you with as a means to encourage and lift others up, not as a means to brag or put people down
