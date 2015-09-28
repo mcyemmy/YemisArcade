@@ -75,6 +75,7 @@
 //
 - For whoever exalts himself will be humbled, and he who humbles himself will be exalted. Luke 14:11
 - For whoever desires to save his life will lose it, but whoever loses his life for My sake and the gospel’s will save it. Mark 8:35
+- Confess your trespasses[a] to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much. James 5:16
 - Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. 8 For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life. Galatians 6:7-8
 - But He gives more grace. Therefore He says: “God resists the proud, But gives grace to the humble". James 4:6
 - But I discipline my body and bring it into subjection, so when I have preached to others, I myself may not become disqualified. 1 Corinthians 9:27 (Notes: Bringing myself under subjection to the law of God through Christ)
