@@ -98,7 +98,7 @@
 - There is a way that seems right to a man but the end thereof is destruction Prov 14:12
 - Do you not know that you are the temple of God and that the Spirit of God dwells in you? 1st Corinth 3:16
 - So I will restore to you the years that the swarming locust has eaten, The crawling locust, The consuming locust, And the chewing locust,[a] My great army which I sent among you. Joel 2:25
-- 
+- A
 - Other Personal comments Below
 - When you pray, be helpless before God because Prayer is the child’s helpless cry to the Father’s attentive ear. Psalm 121:1
 - Use what God has blessed you with as a means to encourage and lift others up, not as a means to brag or put people down
