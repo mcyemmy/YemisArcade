@@ -75,6 +75,8 @@
 //
 - For whoever exalts himself will be humbled, and he who humbles himself will be exalted. Luke 14:11
 - For whoever desires to save his life will lose it, but whoever loses his life for My sake and the gospel’s will save it. Mark 8:35
+- But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, 23 gentleness, self-control. Against such there is no law. Galatians 5:22
+- saying with a loud voice: “Worthy is the Lamb who was slain To receive power and riches and wisdom, And strength and honor and glory and blessing!” Revelations 5:12
 - Confess your trespasses[a] to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much. James 5:16
 - Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. 8 For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life. Galatians 6:7-8
 - But He gives more grace. Therefore He says: “God resists the proud, But gives grace to the humble". James 4:6
@@ -85,6 +87,7 @@
 - Rejoice always, 17 pray without ceasing, 18 in everything give thanks; for this is the will of God in Christ Jesus for you. 1 Thessalonians 5:16-18
 - Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God; Philipians 4:6
 - Do not quench the Spirit. 20 Do not despise prophecies. 21 Test all things; hold fast what is good. 22 Abstain from every form of evil. 1 Thessalonians 5:19-22
+- Armor of God - Ephesians 6:10-18
 - But those who wait on the Lord Shall renew their strength; They shall mount up with wings like eagles, They shall run and not be weary, They shall walk and not faint. isaiah 40:31
 - For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end. Jeremiah 29:11
 - He who covers his sins will not prosper, but whoever confesses and forsakes them will have mercy. Proverbs 28:13
