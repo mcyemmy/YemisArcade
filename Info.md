@@ -74,6 +74,7 @@
 
 //
 - For whoever exalts himself will be humbled, and he who humbles himself will be exalted. Luke 14:11
+- For whoever desires to save his life will lose it, but whoever loses his life for My sake and the gospel’s will save it. Mark 8:35
 - Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. 8 For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life. Galatians 6:7-8
 - But He gives more grace. Therefore He says: “God resists the proud, But gives grace to the humble". James 4:6
 - But I discipline my body and bring it into subjection, so when I have preached to others, I myself may not become disqualified. 1 Corinthians 9:27 (Notes: Bringing myself under subjection to the law of God through Christ)
@@ -85,12 +86,23 @@
 - Do not quench the Spirit. 20 Do not despise prophecies. 21 Test all things; hold fast what is good. 22 Abstain from every form of evil. 1 Thessalonians 5:19-22
 - But those who wait on the Lord Shall renew their strength; They shall mount up with wings like eagles, They shall run and not be weary, They shall walk and not faint. isaiah 40:31
 - For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end. Jeremiah 29:11
-- - He who covers his sins will not prosper, but whoever confesses and forsakes them will have mercy. Proverbs 28:13
+- He who covers his sins will not prosper, but whoever confesses and forsakes them will have mercy. Proverbs 28:13
 - For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do Eph 2:10
+- I say to you, though he will not rise and give to him because he is his friend, yet because of his persistence he will rise and give him as many as he needs. Luke 11:8
+- See then that you walk circumspectly, not as fools but as wise, 16 redeeming the time, because the days are evil. Eph 5:15-16
+- Let your light so shine before men, that they may see your good works and glorify your Father in heaven. Matthew 5:16
+- For God is able to supply all your needs according to His riches in glory Phil 4:19
+- But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him. 11:6
+- But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light; 1 Peter 2:9
+- Seek the Lord while He may be found, Call upon Him while He is near. Isaiah 55:6
+- There is a way that seems right to a man but the end thereof is destruction Prov 14:12
+- Do you not know that you are the temple of God and that the Spirit of God dwells in you? 1st Corinth 3:16 
+- So I will restore to you the years that the swarming locust has eaten, The crawling locust, The consuming locust, And the chewing locust,[a] My great army which I sent among you. Joel 2:25
+- 
+- Other Personal comments Below
 - When you pray, be helpless before God because Prayer is the child’s helpless cry to the Father’s attentive ear. Psalm 121:1
 - Use what God has blessed you with as a means to encourage and lift others up, not as a means to brag or put people down
 - If you don't  follow the manufacturer's manual, everything will be in error.
-- Christ teaches us to lose our life in order to gain it. We thought Christ is upside down, but we really are the ones that are upside down. Mark 8:35
 - Faith is believing that God is present even when all we hear is troubles. Rom. 8:38-39
 - The earth belongs to the Lord and we must honor Him by tendering(treating with respect) everything and people that our father have placed here on the earth. Psalm 24:1
 - God our Father at creation have placed a seed in us and we do not bear fruit unless we tend and cultivate the seed that God hase placed in us.
@@ -98,14 +110,7 @@
 - Do not look at things from a distorted negative view. Look at it from a positive and Godly perspective. John 11:11
 - We must know who we are in Christ 1 Peter 2:9
 - God never gives up on us and we must strive to make our own lives better. God can restore all the lost years 
-- So I will restore to you the years that the swarming locust has eaten, The crawling locust, The consuming locust, And the chewing locust,[a] My great army which I sent among you. Joel 2:25
-- See then that you walk circumspectly, not as fools but as wise, 16 redeeming the time, because the days are evil. Eph 5:15-16
-- Let your light so shine before men, that they may see your good works and glorify your Father in heaven. Matthew 5:16
-- For God is able to supply all your needs according to His riches in glory Phil 4:19
-- But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him. 11:6
-- Seek the Lord while He may be found, Call upon Him while He is near. Isaiah 55:6
-- There is a way that seems right to a man but the end thereof is destruction Prov 14:12
-- Do you not know that you are the temple of God and that the Spirit of God dwells in you? 1st Corinth 3:16 
+
 
 //
 - A
