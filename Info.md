@@ -37,7 +37,7 @@
 
 //
 - Javascript
-- Event handler is the function being executed each time an event(e.g click) is triggered. Difference between an event handler and event listener can be found here - http://stackoverflow.com/questions/6929528/javascript-whats-the-difference-between-event-handlers-listener
+- Event handler is the function being executed each time an event(e.g click) is triggered. Comparism between an event handler and event listener can be found here - http://stackoverflow.com/questions/6929528/javascript-whats-the-difference-between-event-handlers-listener
 - Blogs - http://javascriptweekly.com/issues/237, http://html5weekly.com/issues/194 http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html
 - Workshops -  http://nodeschool.io/#workshoppers
 - Online Books/Tutorials - http://speakingjs.com/es5/index.html, http://jstherightway.org, http://www.webmonkey.com/tutorials, http://www.xul.fr/javascript/, http://addyosmani.com/resources/essentialjsdesignpatterns/book/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
