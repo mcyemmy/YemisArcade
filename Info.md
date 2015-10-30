@@ -76,6 +76,8 @@
 //
 - For whoever exalts himself will be humbled, and he who humbles himself will be exalted. Luke 14:11
 - For whoever desires to save his life will lose it, but whoever loses his life for My sake and the gospel’s will save it. Mark 8:35
+- Looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
+Hebrews 12:2
 - But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, 23 gentleness, self-control. Against such there is no law. Galatians 5:22
 - saying with a loud voice: “Worthy is the Lamb who was slain To receive power and riches and wisdom, And strength and honor and glory and blessing!” Revelations 5:12
 - Confess your trespasses[a] to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much. James 5:16
