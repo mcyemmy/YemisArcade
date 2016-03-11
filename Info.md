@@ -74,6 +74,8 @@
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 
 //
+- Having your conduct always honorable among men, that though they speak against you as evildoers, they may by your good works which they observe, glorify God in the day of visitation. 1st Peter 2:12
+- Lest Satan should get an advantage of us: for we are not ignorant of _is devices. 2 Corinthians 2:11
 - For whoever exalts himself will be humbled, and he who humbles himself will be exalted. Luke 14:11
 - For whoever desires to save his life will lose it, but whoever loses his life for My sake and the gospel’s will save it. Mark 8:35
 - Looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God. Hebrews 12:2
