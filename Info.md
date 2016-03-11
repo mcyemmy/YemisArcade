@@ -74,6 +74,7 @@
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 
 //
+- For we are not called unto greatness but unto faithfulness. Greatness is only a side reward for being faithful.
 - Having your conduct always honorable among men, that though they speak against you as evildoers, they may by your good works which they observe, glorify God in the day of visitation. 1st Peter 2:12
 - Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. Matthew 5:16
 - Lest Satan should get an advantage of us: for we are not ignorant of _is devices. 2 Corinthians 2:11
