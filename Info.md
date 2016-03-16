@@ -120,6 +120,7 @@
 - Jesus is our “brand,” for we are being conformed to His image (Rom. 8:29). We attract others to Christ when we put on His attributes, which include tender mercies, kindness, humility, meekness, long suffering (Col. 3:12), and, above all, love (v.14).
 - Do not look at things from a distorted negative view. Look at it from a positive and Godly perspective. John 11:11
 - We must know who we are in Christ 1 Peter 2:9
+- Romans 8:31-39
 - God never gives up on us and we must strive to make our own lives better. God can restore all the lost years 
 
 
