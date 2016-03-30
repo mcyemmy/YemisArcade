@@ -89,6 +89,8 @@
 - But He gives more grace. Therefore He says: “God resists the proud, But gives grace to the humble". James 4:6
 - But I discipline my body and bring it into subjection, so when I have preached to others, I myself may not become disqualified. 1 Corinthians 9:27 (Notes: Bringing myself under subjection to the law of God through Christ)
 - The thief does not come except to steal, to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly. John 10:10
+- Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through Me. John 14:6
+- For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. Romans 6:23
 - For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich. 2 Corinthians 8:9
 - Command those who are rich in this present age not to be haughty, nor to trust in uncertain riches but in the living God, who gives us richly all things to enjoy. 1 Timothy 6:17
 - Rejoice always, 17 pray without ceasing, 18 in everything give thanks; for this is the will of God in Christ Jesus for you. 1 Thessalonians 5:16-18
