@@ -77,10 +77,11 @@
 - For we are not called unto greatness but unto faithfulness. Greatness is only a side reward for being faithful.
 - Having your conduct always honorable among men, that though they speak against you as evildoers, they may by your good works which they observe, glorify God in the day of visitation. 1st Peter 2:12
 - Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. Matthew 5:16
-- Lest Satan should get an advantage of us: for we are not ignorant of _is devices. 2 Corinthians 2:11
 - For whoever exalts himself will be humbled, and he who humbles himself will be exalted. Luke 14:11
 - For whoever desires to save his life will lose it, but whoever loses his life for My sake and the gospel’s will save it. Mark 8:35
 - Looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God. Hebrews 12:2
+- Lest Satan should get an advantage of us: for we are not ignorant of _is devices. 2 Corinthians 2:11
+- Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. Ephesians 6:11
 - But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, 23 gentleness, self-control. Against such there is no law. Galatians 5:22
 - saying with a loud voice: “Worthy is the Lamb who was slain To receive power and riches and wisdom, And strength and honor and glory and blessing!” Revelations 5:12
 - Confess your trespasses[a] to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much. James 5:16
