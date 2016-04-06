@@ -74,7 +74,6 @@
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 
 //
-- For we are not called unto greatness but unto faithfulness. Greatness is only a side reward for being faithful.
 - Having your conduct always honorable among men, that though they speak against you as evildoers, they may by your good works which they observe, glorify God in the day of visitation. 1st Peter 2:12
 - Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. Matthew 5:16
 - For whoever exalts himself will be humbled, and he who humbles himself will be exalted. Luke 14:11
@@ -125,6 +124,42 @@
 - We must know who we are in Christ 1 Peter 2:9
 - Romans 8:31-39
 - God never gives up on us and we must strive to make our own lives better. God can restore all the lost years 
+- -  Yet in all these things we are more than conquerors through Him who loved us. 38 For I am persuaded that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord. Romans 8:37-39
+-  I can do all things through Christ who strengthens me. Philippians 4:13
+- For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation. Romans 10:10-15
+- Now we exhort you, brethren, comfort the fainthearted, uphold the weak, be patient with all” (1Thessalonians 5:14)
+- 
+
+
+//
+Devotion
+- For we are not called unto greatness but unto faithfulness. Greatness is only a side reward for being faithful.
+- The level of emotional control(self-control) determines the level of closeness to God. Put your emotions under check and prevent the devil from using it against you.
+- Always have an attitude of gratitude, Praising God at all time makes His unending mercies available, and His mercy is probably all the is needed to enjoy a glorious ending in life. Proclaiming God’s mercy and faithfulness silences discontentment, think about the good things that He has done not the ones yet to be seen. O Lord, grow in me an attitude of fullness in You. In all of life situation, never speak against God.
+- Resting in God always, even when the tide is against me.
+- Help me to remember, like Jeremiah, that my hope comes from You, not from my circumstances.
+- It is the same rain that falls on bitterleaf that also falls on sugarcane. Choose your destiny wisely.
+- Do not store up earthly treasures for yourself but pursue heavenly treasures instead. Our character is the Bible that other people read. Let your life reflect Jesus to people. Self-Denial
+- GPS GoodAlwaysGentle PatientWithPeep StrictOnSelf
+- NotUsedToTheseButBringsGreatBenefitOnceUsedToIt
+- YouCanTrainYourselfToBecomeAnythingMeaningful
+- Self-Denial ! Self-Denial !! Self-Denial !!!
+- Responsibility! Responsibility!! Responsibility!!!
+- HappyReservedGoodBoldHealthySleepExerciseEatWealthyWorkStudySaveAboveAllDisciplinePlanExecute
+- GPSS Gentle on People, Strict on Self (Self-Denial)
+- ThoughnotBornGoodButHaveGotToTeachSelfToBecomeGoodElseTheBadCharactersMayleadOneToHell
+- MakeTheRightChoicesTodayToPreventTheRegretsOfTomorrow
+
+
+//
+**Truth and Power Ministries**
+Ultimate End Result -- Resources needed -- Actions Steps
+Hapiness and Salvation -- Truth and Power -- Practice and Devotion
+
+
+//
+Sikhism/Christianity
+The fate of people vulnerable to the Five Thieves ('Pānj Chor') is separation from God. These thieves are Ego, anger, greed, attachment, and lust are known as the Five Thieves. They robb people of their Happiness and Salvation. Intense Self-Denial and relentless devotion to God is the only way this situation can be remedied. Devotion to God makes you an embodiment of Truth and Power. **Truth and Power Ministries**
 
 
 //
