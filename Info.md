@@ -108,11 +108,12 @@
 - Let your light so shine before men, that they may see your good works and glorify your Father in heaven. Matthew 5:16
 - For God is able to supply all your needs according to His riches in glory Phil 4:19
 - But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him. 11:6
+- Therefore know that the Lord your God, He is God, the faithful God who keeps covenant and mercy for a thousand generations with those who love Him and keep His commandments; Deutronomy 7:9
 - But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light; 1 Peter 2:9
 - Seek the Lord while He may be found, Call upon Him while He is near. Isaiah 55:6
 - There is a way that seems right to a man but the end thereof is destruction Prov 14:12
 - Do you not know that you are the temple of God and that the Spirit of God dwells in you? 1st Corinth 3:16
-- So I will restore to you the years that the swarming locust has eaten, The crawling locust, The consuming locust, And the chewing locust,[a] My great army which I sent among you. Joel 2:25
+- So I will restore to you the years that the swarming locust has eaten, The crawling locust, The consuming locust, And the chewing locust, My great army which I sent among you. Joel 2:25
 - A
 - Other Personal comments Below
 - When you pray, be helpless before God because Prayer is the child’s helpless cry to the Father’s attentive ear. Psalm 121:1
