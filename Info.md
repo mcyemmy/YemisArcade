@@ -137,6 +137,8 @@
 //
 Devotion
 - For we are not called unto greatness but unto faithfulness. Greatness is only a side reward for being faithful.
+- People will be people but I will be Christ. Situations will be situations but I will choose the mind of Christ.
+- Situations will always arise, feelings will always be aroused, but how you arrest them and react is what determines your character.
 - The level of emotional control(self-control) determines the level of closeness to God. Put your emotions under check and prevent the devil from using it against you.
 - Always have an attitude of gratitude, Praising God at all time makes His unending mercies available, and His mercy is probably all the is needed to enjoy a glorious ending in life. Proclaiming God’s mercy and faithfulness silences discontentment, think about the good things that He has done not the ones yet to be seen. O Lord, grow in me an attitude of fullness in You. In all of life situation, never speak against God.
 - Resting in God always, even when the tide is against me.
