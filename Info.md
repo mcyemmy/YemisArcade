@@ -84,7 +84,6 @@
 - But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, 23 gentleness, self-control. Against such there is no law. Galatians 5:22
 - Christ has redeemed us from the curse of the law, having become a curse for us (for it is written, “Cursed is everyone who hangs on a tree”). Galatians 3:13
 - if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved. 10 For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation. Romans 10:9-10
-- 
 - saying with a loud voice: “Worthy is the Lamb who was slain To receive power and riches and wisdom, And strength and honor and glory and blessing!” Revelations 5:12
 - Confess your trespasses to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much. James 5:16
 - Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. 8 For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life. Galatians 6:7-8
@@ -131,7 +130,7 @@
 -  I can do all things through Christ who strengthens me. Philippians 4:13
 - For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation. Romans 10:10-15
 - Now we exhort you, brethren, comfort the fainthearted, uphold the weak, be patient with all” (1Thessalonians 5:14)
-- https://www.biblegateway.com/blog/2009/05/the-100-most-read-bible-verses-at-biblegatewaycom/
+- More verses - https://www.biblegateway.com/blog/2009/05/the-100-most-read-bible-verses-at-biblegatewaycom/
 
 
 //
