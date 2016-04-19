@@ -105,26 +105,19 @@
 - For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do Eph 2:10
 - I say to you, though he will not rise and give to him because he is his friend, yet because of his persistence he will rise and give him as many as he needs. Luke 11:8
 - See then that you walk circumspectly, not as fools but as wise, 16 redeeming the time, because the days are evil. Eph 5:15-16
-- Let your light so shine before men, that they may see your good works and glorify your Father in heaven. Matthew 5:16
 - For God is able to supply all your needs according to His riches in glory Phil 4:19
 - But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him. 11:6
+- The Spirit Himself bears witness with our spirit that we are children of God, 17 and if children, then heirs—heirs of God and joint heirs with Christ, if indeed we suffer with Him, that we may also be glorified together. Romans 8:16
 - Therefore know that the Lord your God, He is God, the faithful God who keeps covenant and mercy for a thousand generations with those who love Him and keep His commandments; Deutronomy 7:9
 - But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light; 1 Peter 2:9
 - Seek the Lord while He may be found, Call upon Him while He is near. Isaiah 55:6
 - There is a way that seems right to a man but the end thereof is destruction Prov 14:12
 - Do you not know that you are the temple of God and that the Spirit of God dwells in you? 1st Corinth 3:16
 - So I will restore to you the years that the swarming locust has eaten, The crawling locust, The consuming locust, And the chewing locust, My great army which I sent among you. Joel 2:25
-- A
-- Other Personal comments Below
+- These things He said, and after that He said to them, “Our friend Lazarus sleeps, but I go that I may wake him up.” John 11:11
 - When you pray, be helpless before God because Prayer is the child’s helpless cry to the Father’s attentive ear. Psalm 121:1
-- Use what God has blessed you with as a means to encourage and lift others up, not as a means to brag or put people down
-- If you don't  follow the manufacturer's manual, everything will be in error.
 - Faith is believing that God is present even when all we hear is troubles. Rom. 8:38-39
 - The earth belongs to the Lord and we must honor Him by tendering(treating with respect) everything and people that our father have placed here on the earth. Psalm 24:1
-- God our Father at creation have placed a seed in us and we do not bear fruit unless we tend and cultivate the seed that God hase placed in us.
-- Jesus is our “brand,” for we are being conformed to His image (Rom. 8:29). We attract others to Christ when we put on His attributes, which include tender mercies, kindness, humility, meekness, long suffering (Col. 3:12), and, above all, love (v.14).
-- Do not look at things from a distorted negative view. Look at it from a positive and Godly perspective. John 11:11
-- We must know who we are in Christ 1 Peter 2:9
 - Romans 8:31-39
 - God never gives up on us and we must strive to make our own lives better. God can restore all the lost years 
 - -  Yet in all these things we are more than conquerors through Him who loved us. 38 For I am persuaded that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord. Romans 8:37-39
@@ -133,6 +126,7 @@
 - Now we exhort you, brethren, comfort the fainthearted, uphold the weak, be patient with all” (1Thessalonians 5:14)
 - More verses - https://www.biblegateway.com/blog/2009/05/the-100-most-read-bible-verses-at-biblegatewaycom/
 
+//Slaves and Children in Christ
 
 //
 Devotion
@@ -140,6 +134,12 @@ Devotion
 - People will be people but I will be Christ. Situations will be situations but I will choose the mind of Christ.
 - Situations will always arise, feelings will always be aroused, but how you arrest them and react is what determines your character.
 - The level of emotional control(self-control) determines the level of closeness to God. Put your emotions under check and prevent the devil from using it against you.
+- Use what God has blessed you with as a means to encourage and lift others up, not as a means to brag or put people down
+- If you don't  follow the manufacturer's manual, everything will be in error.
+- God our Father at creation have placed a seed in us and we do not bear fruit unless we tend and cultivate the seed that God has placed in us.
+- Jesus is our “brand,” for we are being conformed to His image (Rom. 8:29). We attract others to Christ when we put on His attributes, which include tender mercies, kindness, humility, meekness, long suffering (Col. 3:12), and, above all, love (v.14).
+- Do not look at things from a distorted negative view. Look at it from a positive and Godly perspective. John 11:11
+- We must know who we are in Christ 1 Peter 2:9
 - Always have an attitude of gratitude, Praising God at all time makes His unending mercies available, and His mercy is probably all the is needed to enjoy a glorious ending in life. Proclaiming God’s mercy and faithfulness silences discontentment, think about the good things that He has done not the ones yet to be seen. O Lord, grow in me an attitude of fullness in You. In all of life situation, never speak against God.
 - Resting in God always, even when the tide is against me.
 - Help me to remember, like Jeremiah, that my hope comes from You, not from my circumstances.
