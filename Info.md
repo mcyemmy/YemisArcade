@@ -110,6 +110,7 @@
 - The Spirit Himself bears witness with our spirit that we are children of God, 17 and if children, then heirs—heirs of God and joint heirs with Christ, if indeed we suffer with Him, that we may also be glorified together. Romans 8:16
 - Therefore know that the Lord your God, He is God, the faithful God who keeps covenant and mercy for a thousand generations with those who love Him and keep His commandments; Deutronomy 7:9
 - But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light; 1 Peter 2:9
+- Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead  1 Peter 1:3
 - Seek the Lord while He may be found, Call upon Him while He is near. Isaiah 55:6
 - There is a way that seems right to a man but the end thereof is destruction Prov 14:12
 - Do you not know that you are the temple of God and that the Spirit of God dwells in you? 1st Corinth 3:16
@@ -127,6 +128,20 @@
 - More verses - https://www.biblegateway.com/blog/2009/05/the-100-most-read-bible-verses-at-biblegatewaycom/
 
 //Slaves and Children in Christ
+- Or do you not know that your body is the temple of the Holy Spirit who is in you, whom you have from God, and you are not your own? 20 For you were bought at a price; therefore glorify God in your body[c] and in your spirit, which are God’s. 1 Corinthians 6:19-20 
+- And having been set free from sin, you became slaves of righteousness. Romans 6:18 The Spirit Himself bears witness with our spirit that we are children of God Romans 8:16
+- Live as free people, but do not use your freedom as a cover-up for evil; live as God’s slaves 1 peter 2:16
+-  But now having been set free from sin, and having become slaves of God, you have your fruit to holiness, and the end, everlasting life. Romans 6:22
+- For he who is called in the Lord while a slave is the Lord’s freedman. Likewise he who is called while free is Christ’s slave. 1 Chorinthians 7:22
+-  You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love. Galatians 5:13
+- Obey them not only to win their favor when their eye is on you, but as slaves of Christ, doing the will of God from your heart. Ephesians 6:6
+- No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money. Matthew 6:24
+- So you are no longer a slave, but God's child; and since you are his child, God has made you also an heir. Galatians 4:7
+- Now if we are children, then we are heirs--heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory. Romans 8:17
+- Were you called while a slave? Do not be concerned about it; but if you can be made free, rather use it. 1 Corinthians 7:21
+- And you shall know the truth, and the truth shall make you free. John 8:32
+- Therefore if the Son makes you free, you shall be free indeed. John 8:36
+- saying, “Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done.” luke 22:42
 
 //
 Devotion
