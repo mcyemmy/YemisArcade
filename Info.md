@@ -135,6 +135,7 @@
 - For he who is called in the Lord while a slave is the Lord’s freedman. Likewise he who is called while free is Christ’s slave. 1 Chorinthians 7:22
 -  You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love. Galatians 5:13
 - Obey them not only to win their favor when their eye is on you, but as slaves of Christ, doing the will of God from your heart. Ephesians 6:6
+- The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance. 2 Peter 3:9, Also read Genesis 12:1-4 and Jer 29:11
 - No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money. Matthew 6:24
 - So you are no longer a slave, but God's child; and since you are his child, God has made you also an heir. Galatians 4:7
 - Now if we are children, then we are heirs--heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory. Romans 8:17
