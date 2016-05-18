@@ -96,6 +96,7 @@
 - Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through Me. John 14:6
 - For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. Romans 6:23
 - For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich. 2 Corinthians 8:9
+- And God is able to make all grace abound toward you, that you, always having all sufficiency in all things, may have an abundance for every good work. 2 Corinthians 9:8
 - Command those who are rich in this present age not to be haughty, nor to trust in uncertain riches but in the living God, who gives us richly all things to enjoy. 1 Timothy 6:17
 - Rejoice always, 17 pray without ceasing, 18 in everything give thanks; for this is the will of God in Christ Jesus for you. 1 Thessalonians 5:16-18
 - Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God; Philipians 4:6
