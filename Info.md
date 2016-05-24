@@ -85,10 +85,10 @@
 - Christ has redeemed us from the curse of the law, having become a curse for us (for it is written, “Cursed is everyone who hangs on a tree”). Galatians 3:13
 - if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved. 10 For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation. Romans 10:9-10
 - In a loud voice they were saying: "Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honor and glory and praise!" Revelations 5:12
-- Confess your trespasses to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous avails much. James 5:16
+- Confess your trespasses to one another, and pray for one another, that you may be healed. The effective, fervent prayer of the righteous avails much. James 5:16
 - **********************************************************************
 - Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. 8 For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life. Galatians 6:7-8
-- And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart. Galatians 6:9
+- And let us not grow weary of doing good, for in due season we shall reap if we do not lose heart. Galatians 6:9
 - But He gives more grace. Therefore He says: “God resists the proud, But gives grace to the humble". James 4:6
 - But I discipline my body and bring it into subjection, so when I have preached to others, I myself may not become disqualified. 1 Corinthians 9:27 (Notes: Bringing myself under subjection to the law of God through Christ)
 - The thief does not come except to steal, to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly. John 10:10
