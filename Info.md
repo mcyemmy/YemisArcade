@@ -86,7 +86,6 @@
 - if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved. 10 For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation. Romans 10:9-10
 - In a loud voice they were saying: "Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honor and glory and praise!" Revelations 5:12
 - Confess your trespasses to one another, and pray for one another, that you may be healed. The effective, fervent prayer of the righteous avails much. James 5:16
-- **********************************************************************
 - Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. 8 For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life. Galatians 6:7-8
 - And let us not grow weary of doing good, for in due season we shall reap if we do not lose heart. Galatians 6:9
 - But He gives more grace. Therefore He says: “God resists the proud, But gives grace to the humble". James 4:6
@@ -99,6 +98,7 @@
 - For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. Romans 6:23
 - For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich. 2 Corinthians 8:9
 - And God is able to make all grace abound toward you, that you, always having all sufficiency in all things, may have an abundance for every good work. 2 Corinthians 9:8
+- **********************************************************************
 - Command those who are rich in this present age not to be haughty, nor to trust in uncertain riches but in the living God, who gives us richly all things to enjoy. 1 Timothy 6:17
 - Rejoice always, 17 pray without ceasing, 18 in everything give thanks; for this is the will of God in Christ Jesus for you. 1 Thessalonians 5:16-18
 - Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God; Philipians 4:6
