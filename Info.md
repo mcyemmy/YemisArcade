@@ -93,6 +93,8 @@
 - But I discipline my body and bring it into subjection, so when I have preached to others, I myself may not become disqualified. 1 Corinthians 9:27 (Notes: Bringing myself under subjection to the law of God through Christ)
 - The thief does not come except to steal, to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly. John 10:10
 - ******************************************************************************
+- And walk in love, as Christ also has loved us and given Himself for us, an offering and a sacrifice to God for a sweet-smelling aroma. Ephesians 5:2
+- Now no chastening seems to be joyful for the present, but painful; nevertheless, afterward it yields the peaceable fruit of righteousness to those who have been trained by it. Hebrews 12:11
 - Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through Me. John 14:6
 - For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. Romans 6:23
 - For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich. 2 Corinthians 8:9
@@ -122,7 +124,7 @@
 - When you pray, be helpless before God because Prayer is the child’s helpless cry to the Father’s attentive ear. Psalm 121:1
 - Faith is believing that God is present even when all we hear is troubles. Rom. 8:38-39
 - The earth belongs to the Lord and we must honor Him by tendering(treating with respect) everything and people that our father have placed here on the earth. Psalm 24:1
-- Romans 8:31-39
+- Read Romans 8:31-39
 - God never gives up on us and we must strive to make our own lives better. God can restore all the lost years 
 - -  Yet in all these things we are more than conquerors through Him who loved us. 38 For I am persuaded that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord. Romans 8:37-39
 -  I can do all things through Christ who strengthens me. Philippians 4:13
@@ -146,6 +148,7 @@
 - And you shall know the truth, and the truth shall make you free. John 8:32
 - Therefore if the Son makes you free, you shall be free indeed. John 8:36
 - saying, “Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done.” luke 22:42
+- Now no chastening seems to be joyful for the present, but painful; nevertheless, afterward it yields the peaceable fruit of righteousness to those who have been trained by it. Hebrews 12:11
 
 //
 Devotion
