@@ -74,6 +74,7 @@
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 
 //
+- But you are a chosen generation, a royal priesthood, a holy nation, GOd's peculiar people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light; 1 Peter 2:9
 - Having your conduct always honorable among men, that though they speak against you as evildoers, they may by your good works which they observe, glorify God in the day of visitation. 1st Peter 2:12
 - Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. Matthew 5:16
 - For whoever exalts himself will be humbled, and he who humbles himself will be exalted. Luke 14:11
@@ -114,7 +115,6 @@
 - But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him. 11:6
 - The Spirit Himself bears witness with our spirit that we are children of God, 17 and if children, then heirs—heirs of God and joint heirs with Christ, if indeed we suffer with Him, that we may also be glorified together. Romans 8:16
 - Therefore know that the Lord your God, He is God, the faithful God who keeps covenant and mercy for a thousand generations with those who love Him and keep His commandments; Deutronomy 7:9
-- But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light; 1 Peter 2:9
 - Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead  1 Peter 1:3
 - Seek the Lord while He may be found, Call upon Him while He is near. Isaiah 55:6
 - There is a way that seems right to a man but the end thereof is destruction Prov 14:12
