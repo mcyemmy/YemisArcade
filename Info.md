@@ -93,7 +93,7 @@
 - But I discipline my body and bring it into subjection, so when I have preached to others, I myself may not become disqualified. 1 Corinthians 9:27 (Notes: Bringing myself under subjection to the law of God through Christ)
 - The thief does not come except to steal, to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly. John 10:10
 - ******************************************************************************
-- And walk in love, as Christ also has loved us and given Himself for us, an offering and a sacrifice to God for a sweet-smelling aroma. Ephesians 5:2
+- And walk in love, just as Christ loved us and gave Himself for us, an offering and sacrifice to God for a sweet-smelling savour. Ephesians 5:2
 - Now no chastening seems to be joyful for the present, but painful; nevertheless, afterward it yields the peaceable fruit of righteousness to those who have been trained by it. Hebrews 12:11
 - Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through Me. John 14:6
 - For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. Romans 6:23
