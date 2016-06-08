@@ -92,9 +92,8 @@
 - But He gives more grace. Therefore He says: “God resists the proud, But gives grace to the humble". James 4:6
 - But I discipline my body and bring it into subjection, so when I have preached to others, I myself may not become disqualified. 1 Corinthians 9:27 (Notes: Bringing myself under subjection to the law of God through Christ)
 - The thief does not come except to steal, to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly. John 10:10
-- ******************************************************************************
 - And walk in love, just as Christ loved us and gave Himself for us, an offering and sacrifice to God for a sweet-smelling savour. Ephesians 5:2
-- Now no chastening seems to be joyful for the present, but painful; nevertheless, afterward it yields the peaceable fruit of righteousness to those who have been trained by it. Hebrews 12:11
+- Now no chastening seems to be joyful for the present, but painful; nevertheless, afterward it produces the peaceable fruit of righteousness to those who have been trained by it. Hebrews 12:11
 - Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through Me. John 14:6
 - For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. Romans 6:23
 - For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich. 2 Corinthians 8:9
@@ -107,6 +106,7 @@
 - Armor of God - Ephesians 6:10-18
 - But those who wait on the Lord Shall renew their strength; They shall mount up with wings like eagles, They shall run and not be weary, They shall walk and not faint. isaiah 40:31
 - For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end. Jeremiah 29:11
+- - ******************************************************************************
 - He who covers his sins will not prosper, but whoever confesses and forsakes them will have mercy. Proverbs 28:13
 - For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do Eph 2:10
 - I say to you, though he will not rise and give to him because he is his friend, yet because of his persistence he will rise and give him as many as he needs. Luke 11:8
