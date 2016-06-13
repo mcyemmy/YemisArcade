@@ -98,7 +98,6 @@
 - For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. Romans 6:23
 - For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich. 2 Corinthians 8:9
 - And God is able to make all grace abound toward you, that you, always having all sufficiency in all things, may have an abundance for every good work. 2 Corinthians 9:8
-- **********************************************************************
 - Command those who are rich in this present age not to be haughty, nor to trust in uncertain riches but in the living God, who gives us richly all things to enjoy. 1 Timothy 6:17
 - Rejoice always, 17 pray without ceasing, 18 in everything give thanks; for this is the will of God in Christ Jesus for you. 1 Thessalonians 5:16-18
 - Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God; Philipians 4:6
@@ -113,6 +112,7 @@
 - See then that you walk circumspectly, not as fools but as wise, 16 redeeming the time, because the days are evil. Eph 5:15-16
 - For God is able to supply all your needs according to His riches in glory Phil 4:19
 - But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him. 11:6
+- **********************************************************************
 - The Spirit Himself bears witness with our spirit that we are children of God, 17 and if children, then heirs—heirs of God and joint heirs with Christ, if indeed we suffer with Him, that we may also be glorified together. Romans 8:16
 - Therefore know that the Lord your God, He is God, the faithful God who keeps covenant and mercy for a thousand generations with those who love Him and keep His commandments; Deutronomy 7:9
 - Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead  1 Peter 1:3
