@@ -105,7 +105,6 @@
 - Armor of God - Ephesians 6:10-18
 - But those who wait on the Lord Shall renew their strength; They shall mount up with wings like eagles, They shall run and not be weary, They shall walk and not faint. isaiah 40:31
 - For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end. Jeremiah 29:11
-- - ******************************************************************************
 - He who covers his sins will not prosper, but whoever confesses and forsakes them will have mercy. Proverbs 28:13
 - For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do Eph 2:10
 - I say to you, though he will not rise and give to him because he is his friend, yet because of his persistence he will rise and give him as many as he needs. Luke 11:8
@@ -117,6 +116,7 @@
 - Therefore know that the Lord your God, He is God, the faithful God who keeps covenant and mercy for a thousand generations with those who love Him and keep His commandments; Deutronomy 7:9
 - Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead  1 Peter 1:3
 - Seek the Lord while He may be found, Call upon Him while He is near. Isaiah 55:6
+- - ******************************************************************************
 - There is a way that seems right to a man but the end thereof is destruction Prov 14:12
 - Do you not know that you are the temple of God and that the Spirit of God dwells in you? 1st Corinth 3:16
 - So I will restore to you the years that the swarming locust has eaten, The crawling locust, The consuming locust, And the chewing locust, My great army which I sent among you. Joel 2:25
