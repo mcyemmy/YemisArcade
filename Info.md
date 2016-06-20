@@ -112,7 +112,9 @@
 - For God is able to supply all your needs according to His riches in glory Phil 4:19
 - But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him. 11:6
 - **********************************************************************
-- The Spirit Himself bears witness with our spirit that we are children of God, 17 and if children, then heirs—heirs of God and joint heirs with Christ, if indeed we suffer with Him, that we may also be glorified together. Romans 8:16
+- The Spirit Himself bears witness with our spirit that we are children of God Romans 8:16
+- Now if we are children, then we are heirs--heirs of God and co-heirs with Christ, if indeed we suffer with Christ in order that we may also share in his glory. Romans 8:17
+- For I consider that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us Romans 8:18
 - Therefore know that the Lord your God, He is God, the faithful God who keeps covenant and mercy for a thousand generations with those who love Him and keep His commandments; Deutronomy 7:9
 - Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead  1 Peter 1:3
 - Seek the Lord while He may be found, Call upon Him while He is near. Isaiah 55:6
@@ -143,7 +145,8 @@
 - The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance. 2 Peter 3:9, Also read Genesis 12:1-4 and Jer 29:11
 - No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money. Matthew 6:24
 - So you are no longer a slave, but God's child; and since you are his child, God has made you also an heir. Galatians 4:7
-- Now if we are children, then we are heirs--heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory. Romans 8:17
+- Now if we are children, then we are heirs--heirs of God and co-heirs with Christ, if indeed we suffer with Christ in order that we may also share in his glory. Romans 8:17
+- - For I consider that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us Romans 8:18
 - Were you called while a slave? Do not be concerned about it; but if you can be made free, rather use it. 1 Corinthians 7:21
 - And you shall know the truth, and the truth shall make you free. John 8:32
 - Therefore if the Son makes you free, you shall be free indeed. John 8:36
