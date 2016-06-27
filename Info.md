@@ -111,20 +111,20 @@
 - See then that you walk circumspectly, not as fools but as wise, 16 redeeming the time, because the days are evil. Eph 5:15-16
 - For God is able to supply all your needs according to His riches in glory Phil 4:19
 - But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him. 11:6
-- **********************************************************************
 - The Spirit Himself bears witness with our spirit that we are children of God Romans 8:16
 - Now if we are children, then we are heirs--heirs of God and co-heirs with Christ, if indeed we suffer with Christ in order that we may also share in his glory. Romans 8:17
 - For I consider that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us Romans 8:18
 - Therefore know that the Lord your God, He is God, the faithful God who keeps covenant and mercy for a thousand generations with those who love Him and keep His commandments; Deutronomy 7:9
 - Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead  1 Peter 1:3
 - Seek the Lord while He may be found, Call upon Him while He is near. Isaiah 55:6
-- - ******************************************************************************
+- ******************************************************************************
 - There is a way that seems right to a man but the end thereof is destruction Prov 14:12
 - Do you not know that you are the temple of God and that the Spirit of God dwells in you? 1st Corinth 3:16
 - So I will restore to you the years that the swarming locust has eaten, The crawling locust, The consuming locust, And the chewing locust, My great army which I sent among you. Joel 2:25
 - These things He said, and after that He said to them, “Our friend Lazarus sleeps, but I go that I may wake him up.” John 11:11
 - When you pray, be helpless before God because Prayer is the child’s helpless cry to the Father’s attentive ear. Psalm 121:1
-- Faith is believing that God is present even when all we hear is troubles. Rom. 8:38-39
+- **********************************************************************
+- For I am persuaded that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord. Rom. 8:38-39
 - The earth belongs to the Lord and we must honor Him by tendering(treating with respect) everything and people that our father have placed here on the earth. Psalm 24:1
 - Read Romans 8:31-39
 - God never gives up on us and we must strive to make our own lives better. God can restore all the lost years 
@@ -146,7 +146,7 @@
 - No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money. Matthew 6:24
 - So you are no longer a slave, but God's child; and since you are his child, God has made you also an heir. Galatians 4:7
 - Now if we are children, then we are heirs--heirs of God and co-heirs with Christ, if indeed we suffer with Christ in order that we may also share in his glory. Romans 8:17
-- - For I consider that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us Romans 8:18
+- For I consider that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us Romans 8:18
 - Were you called while a slave? Do not be concerned about it; but if you can be made free, rather use it. 1 Corinthians 7:21
 - And you shall know the truth, and the truth shall make you free. John 8:32
 - Therefore if the Son makes you free, you shall be free indeed. John 8:36
@@ -164,6 +164,7 @@ Devotion
 - God our Father at creation have placed a seed in us and we do not bear fruit unless we tend and cultivate the seed that God has placed in us.
 - Jesus is our “brand,” for we are being conformed to His image (Rom. 8:29). We attract others to Christ when we put on His attributes, which include tender mercies, kindness, humility, meekness, long suffering (Col. 3:12), and, above all, love (v.14).
 - Do not look at things from a distorted negative view. Look at it from a positive and Godly perspective. John 11:11
+- Faith is believing that God is present even when all we hear is troubles. Rom. 8:38-39
 - We must know who we are in Christ 1 Peter 2:9
 - Always have an attitude of gratitude, Praising God at all time makes His unending mercies available, and His mercy is probably all the is needed to enjoy a glorious ending in life. Proclaiming God’s mercy and faithfulness silences discontentment, think about the good things that He has done not the ones yet to be seen. O Lord, grow in me an attitude of fullness in You. In all of life situation, never speak against God.
 - Resting in God always, even when the tide is against me.
