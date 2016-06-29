@@ -122,9 +122,8 @@
 - Do you not know that you are the temple of God and that the Spirit of God dwells in you? 1st Corinth 3:16
 - So I will restore to you the years that the swarming locust has eaten, The crawling locust, The consuming locust, And the chewing locust, My great army which I sent among you. Joel 2:25
 - These things He said, and after that He said to them, “Our friend Lazarus sleeps, but I go that I may wake him up.” John 11:11
-- When you pray, be helpless before God because Prayer is the child’s helpless cry to the Father’s attentive ear. Psalm 121:1
+- For I am convinced that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord. Rom. 8:38-39
 - **********************************************************************
-- For I am persuaded that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord. Rom. 8:38-39
 - The earth belongs to the Lord and we must honor Him by tendering(treating with respect) everything and people that our father have placed here on the earth. Psalm 24:1
 - Read Romans 8:31-39
 - God never gives up on us and we must strive to make our own lives better. God can restore all the lost years 
@@ -167,6 +166,7 @@ Devotion
 - Faith is believing that God is present even when all we hear is troubles. Rom. 8:38-39
 - We must know who we are in Christ 1 Peter 2:9
 - Always have an attitude of gratitude, Praising God at all time makes His unending mercies available, and His mercy is probably all the is needed to enjoy a glorious ending in life. Proclaiming God’s mercy and faithfulness silences discontentment, think about the good things that He has done not the ones yet to be seen. O Lord, grow in me an attitude of fullness in You. In all of life situation, never speak against God.
+- When you pray, be helpless before God because Prayer is the child’s helpless cry to the Father’s attentive ear. Psalm 121:1
 - Resting in God always, even when the tide is against me.
 - Help me to remember, like Jeremiah, that my hope comes from You, not from my circumstances.
 - It is the same rain that falls on bitterleaf that also falls on sugarcane. Choose your destiny wisely.
