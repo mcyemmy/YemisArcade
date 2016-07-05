@@ -117,21 +117,18 @@
 - Therefore know that the Lord your God, He is God, the faithful God who keeps covenant and mercy for a thousand generations with those who love Him and keep His commandments; Deutronomy 7:9
 - Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead  1 Peter 1:3
 - Seek the Lord while He may be found, Call upon Him while He is near. Isaiah 55:6
-- ******************************************************************************
 - There is a way that seems right to a man but the end thereof is destruction Prov 14:12
 - Do you not know that you are the temple of God and that the Spirit of God dwells in you? 1st Corinth 3:16
 - So I will restore to you the years that the swarming locust has eaten, The crawling locust, The consuming locust, And the chewing locust, My great army which I sent among you. Joel 2:25
 - These things He said, and after that He said to them, “Our friend Lazarus sleeps, but I go that I may wake him up.” John 11:11
 - For I am convinced that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord. Rom. 8:38-39
-- **********************************************************************
-- The earth belongs to the Lord and we must honor Him by tendering(treating with respect) everything and people that our father have placed here on the earth. Psalm 24:1
-- Read Romans 8:31-39
-- God never gives up on us and we must strive to make our own lives better. God can restore all the lost years 
-- -  Yet in all these things we are more than conquerors through Him who loved us. 38 For I am persuaded that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord. Romans 8:37-39
+- Yet in all these things we are more than conquerors through Him who loved us. 38 For I am persuaded that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord. Romans 8:37-39
 -  I can do all things through Christ who strengthens me. Philippians 4:13
-- For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation. Romans 10:10-15
 - Now we exhort you, brethren, comfort the fainthearted, uphold the weak, be patient with all” (1Thessalonians 5:14)
+- ******************************************************************************
 - More verses - https://www.biblegateway.com/blog/2009/05/the-100-most-read-bible-verses-at-biblegatewaycom/
+- - Read Romans 8:31-39
+- **********************************************************************
 
 //Slaves and Children in Christ
 - Or do you not know that your body is the temple of the Holy Spirit who is in you, whom you have from God, and you are not your own? 20 For you were bought at a price; therefore glorify God in your body[c] and in your spirit, which are God’s. 1 Corinthians 6:19-20 
@@ -146,11 +143,13 @@
 - So you are no longer a slave, but God's child; and since you are his child, God has made you also an heir. Galatians 4:7
 - Now if we are children, then we are heirs--heirs of God and co-heirs with Christ, if indeed we suffer with Christ in order that we may also share in his glory. Romans 8:17
 - For I consider that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us Romans 8:18
+- The earth belongs to the Lord and we must honor Him by tendering(treating with respect) everything and people that our father have placed here on the earth. Psalm 24:1
 - Were you called while a slave? Do not be concerned about it; but if you can be made free, rather use it. 1 Corinthians 7:21
 - And you shall know the truth, and the truth shall make you free. John 8:32
 - Therefore if the Son makes you free, you shall be free indeed. John 8:36
 - saying, “Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done.” luke 22:42
 - Now no chastening seems to be joyful for the present, but painful; nevertheless, afterward it yields the peaceable fruit of righteousness to those who have been trained by it. Hebrews 12:11
+- God never gives up on us and we must strive to make our own lives better. God can restore all the lost years 
 
 //
 Devotion
