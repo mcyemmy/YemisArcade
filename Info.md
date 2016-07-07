@@ -121,8 +121,8 @@
 - Do you not know that you are the temple of God and that the Spirit of God dwells in you? 1st Corinth 3:16
 - So I will restore to you the years that the swarming locust has eaten, The crawling locust, The consuming locust, And the chewing locust, My great army which I sent among you. Joel 2:25
 - These things He said, and after that He said to them, “Our friend Lazarus sleeps, but I go that I may wake him up.” John 11:11
-- For I am convinced that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord. Rom. 8:38-39
-- Yet in all these things we are more than conquerors through Him who loved us. 38 For I am persuaded that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord. Romans 8:37-39
+- Yet in all these things we are more than conquerors through Him who loved us. Romans 8:37
+- For I am convinced that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord. Romans 8:38-39
 -  I can do all things through Christ who strengthens me. Philippians 4:13
 - Now we exhort you, brethren, comfort the fainthearted, uphold the weak, be patient with all” (1Thessalonians 5:14)
 - ******************************************************************************
