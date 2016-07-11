@@ -84,7 +84,6 @@
 - **********************************************************************
 - And walk in love, just as Christ loved us and gave Himself for us, an offering and sacrifice to God for a sweet-smelling savour. Ephesians 5:2
 - Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. Ephesians 6:11
-- 
 - For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do Ephesians 2:10
 - See then that you walk circumspectly, not as fools but as wise, 16 redeeming the time, because the days are evil. Ephesians 5:15-16
 - Armor of God - Ephesians 6:10-18
