@@ -78,9 +78,10 @@
 - But you are a chosen generation, a royal priesthood, a holy nation, GOd's peculiar people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light; 1 Peter 2:9
 - Having your conduct always honorable among men, that though they speak against you as evildoers, they may by your good works which they observe, glorify God in the day of visitation. 1 Peter 2:12
 - Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead  1 Peter 1:3
+- But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him. Hebrews 11:6
 - Looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God. Hebrews 12:2
 - Now no chastening seems to be joyful for the present, but painful; nevertheless, afterward it produces the peaceable fruit of righteousness to those who have been trained by it. Hebrews 12:11
-- But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him. Hebrews 11:6
+- Jesus Christ is the same yesterday, today, and forever. Hebrews 13:8
 - **********************************************************************
 - And walk in love, just as Christ loved us and gave Himself for us, an offering and sacrifice to God for a sweet-smelling savour. Ephesians 5:2
 - Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. Ephesians 6:11
@@ -150,7 +151,7 @@
 - And you shall know the truth, and the truth shall make you free. John 8:32
 - Therefore if the Son makes you free, you shall be free indeed. John 8:36
 - saying, “Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done.” luke 22:42
-- Now no chastening seems to be joyful for the present, but painful; nevertheless, afterward it yields the peaceable fruit of righteousness to those who have been trained by it. Hebrews 12:11
+
 - God never gives up on us and we must strive to make our own lives better. God can restore all the lost years 
 
 //
