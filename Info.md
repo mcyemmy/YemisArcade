@@ -7,7 +7,6 @@
 - All other pages - Single page app(Angular,sectionalized), 3D-CSS3 top links(), Page transitioning effect(), Fixed Banner style(https://www.udacity.com/nanodegree)
 
 //
-- Study recommendations for beginners
 - Stylus - http://blog.teamtreehouse.com/getting-started-stylus and https://github.com/stylus/stylus
 - Advanced Javascript/ JQuery / AngularJs / Javascript blogBook (See links below under javascript)
 - CSS / CSS blog - http://css-weekly.com/issue-176/
