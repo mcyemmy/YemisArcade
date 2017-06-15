@@ -1,4 +1,4 @@
-## Projects not on Github
+## Projects NOT on Github
 
 - [TD Ameritrade](https://www.tdameritrade.com)
 - [TD Living Styleguide](https://invest.ameritrade.com/lsg/internal/index.html)
@@ -27,8 +27,7 @@
 
 //
 - Links
-- Job site- linkedIn, cyberCoders, indeed, careerBuilder, Dice, 
-- blogs - bricss.net, creativebloq.com/web-design/examples-css-912710, wikiConnect, htm5rocks, smashing magazine, css-tricks, sixrevisions, techcrunch, sitepoint, tutsplus, techrepublic, geek.com, engadget
+- Job site- linkedIn, cyberCoders, indeed, careerBuilder, Dice
 - Online Tutorials - http://www.webmonkey.com/tutorials, youtube.com
 
 // 
@@ -59,9 +58,6 @@
 
 //
 - VCS / GIT
-- Version control System is a system that makes it possible to maintain a repository of code in one place so that multiple developers can work on a project simultaneously.
-- 3 key ingredients of a Version control System are Repository, branches and Revision history
-- Github is Git's web-based hosting service. Competitors are mercurial/Bitbucket
 - Git Setup - http://rogerdudler.github.io/git-guide/, http://git-scm.com/
 - GIT Explained - http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1, http://rogerdudler.github.io/git-guide/, http://git-scm.com/
 
