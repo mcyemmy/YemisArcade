@@ -1,20 +1,30 @@
+## Projects not on Github
+
+- [TD Ameritrade](https://www.tdameritrade.com)
+- [TD Living Styleguide](https://invest.ameritrade.com/lsg/internal/index.html)
+- [Marriot Hotel](http://marriott.com)
+- [Marriott Hotel Websites](http://marriott.com/wasss)
+- [AOL Advertising](http://advertising.aol.com)
+- [AOL Adlearn OP](http://www.adlearnop.com)
 
 
-- Tools - Git, Jade/Html5, Bootstrap, CSS3/stylus, AngularJs, Grunt
-- Pages - Home, About, ProfessionalExperiences, Education, Hobby, FavoriteQuotes
-- Home page - My picture as page background(https://css-tricks.com/perfect-full-page-background-image/), center-aligned content on white bg(to cover 70% of entire page), 
-- Bootstrap(github.com/twbs/bootstrap)
-- All other pages - Single page app(Angular,sectionalized), 3D-CSS3 top links(), Page transitioning effect(), Fixed Banner style(https://www.udacity.com/nanodegree)
+## Tools
 
-//
-- Stylus - http://blog.teamtreehouse.com/getting-started-stylus and https://github.com/stylus/stylus
-- Advanced Javascript/ JQuery / AngularJs / Javascript blogBook (See links below under javascript)
-- CSS / CSS blog - http://css-weekly.com/issue-176/
-- html5/ html5 blog - http://html5weekly.com/issues/196
-- Responsive  / Bootstraping / Accessibility
-- Chrome Dev Tool
--  GIT / Gulp / Grunt / fiddler / Javascript tools blog
-- Quiz / codeschool/ codecombat/ elevetorsaga
+- **Languges** - Html5, CSS3/SASS, Javascript
+- **Frameworks** - AngularJs, Bootstrap, MAVO
+- **Task runner** - Gulp
+- **Packages** - Browserify, UglifyJs2, Karma, Pug/Jade, JSHint, CSSLint, CssNano, autoprefixer
+- **VCS** - Git 
+
+
+## Research
+
+- **CSS blog** - http://css-weekly.com
+- **html5 blog** - http://frontendfocus.co
+- **Javascript blog** - http://javascriptweekly.com
+- [Smashing Magazine](https://www.smashingmagazine.com)
+- *Others** - css-tricks, sixrevisions, techcrunch, sitepoint, tutsplus, techrepublic, geek.com
+
 //
 - Links
 - Job site- linkedIn, cyberCoders, indeed, careerBuilder, Dice, 
@@ -36,8 +46,6 @@
 
 //
 - Javascript
-- Event handler is the function being executed each time an event(e.g click) is triggered. Comparism between an event handler and event listener can be found here - http://stackoverflow.com/questions/6929528/javascript-whats-the-difference-between-event-handlers-listener
-- Blogs - http://javascriptweekly.com/issues/237, http://html5weekly.com/issues/194 http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html
 - Workshops -  http://nodeschool.io/#workshoppers
 - Online Books/Tutorials - http://speakingjs.com/es5/index.html, http://jstherightway.org, http://www.webmonkey.com/tutorials, http://www.xul.fr/javascript/, http://addyosmani.com/resources/essentialjsdesignpatterns/book/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 - Books (on 4shared)- Pragmatic Programmer, javascript design pettern by Addy osmani(link above under online tutorial), JavaScript: The Good Parts, Pro JavaScript Design Patterns
