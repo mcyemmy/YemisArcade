@@ -11,7 +11,7 @@
 ## Tools
 
 - **Languges** - Html5, CSS3/SASS, Javascript
-- **Frameworks** - AngularJs, Bootstrap, MAVO
+- **Frameworks** - AngularJs, JQuery, Bootstrap, MAVO
 - **Task runner** - Gulp
 - **Packages** - Browserify, UglifyJs2, Karma, Pug/Jade, JSHint, CSSLint, CssNano, autoprefixer
 - **VCS** - Git 
