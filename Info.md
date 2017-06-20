@@ -53,8 +53,8 @@
 - Object-oriented - Has intrisic PropertiesData(Nouns) and funtionsMethods(Verbs). it is reusable and inheritable.
 - Object-oriented in Javascripts allows inheritance but is not class-based
 - undefine is no-assignment, null is empty-assignment. undefined*2=NaN, Null*2=0.
-- Hoisting is a concept in Javascript in which you make reference to a variable before it is declared(or declared down the line), without getting an exception.
-- A closure is an inner function that remember the environment in which it was created (without allowing external functions to change its parent's(or private) variable). And unlike functions that use local variables which are deleted when execution completes, they do not lose the value of their parents variable after execution has been completed.
+- Hoisting is a concept in Javascript that moves all variables to the top of the code before other part of the execution proceeds. Which means you can make reference to a variable before it is declared(or declared down the line), without getting an exception.
+- Due to lexical scoping, any function in Javascript can be a closure and it does not have to only be an inner function. Closures are functions that remember the variables passed to them from their external environment or function. Meaning those variables are preserved and can be referenced again and again unlike local variables which are deleted when execution completes.
 
 //
 - VCS / GIT
