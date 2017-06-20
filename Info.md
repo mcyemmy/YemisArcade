@@ -52,9 +52,10 @@
 - Javascript code should always be minified and obfuscated before deployment for security reasons.
 - undefine vs null. [var foo; console.log(typeof(foo)); ==> *Undefined*]; [var foo=null; console.log(typeof(foo)); ==> *object*]; [var foo=0; console.log(typeof(foo)); ==> *number*]; [var foo=""; console.log(typeof(foo)); ==> *string*]. undefine(variable declared but not assigned) vs null(variable declared and assigned a value of "null")
 - Hoisting is a concept in Javascript that moves all variables to the top of the code before other part of the execution proceeds. Which means you can make reference to a variable before it is declared(or declared down the line), without getting an exception.
-- Due to lexical scoping, any function in Javascript can be a closure and it does not have to only be an inner function. Closures are functions that remember the variables passed to them from their external environment or function. Meaning those variables are preserved and can be referenced again and again unlike local variables which are deleted when execution completes.
+- Due to lexical scoping, any function in Javascript can be a closure and it does not have to only be an inner function. Closures are functions that remember the variables passed to them from their external environment or function. Meaning those variables are preserved and can be referenced again and again unlike local variables which are deleted when execution completes. 
 - Private functions vs closures - Closures usually maintains a link to a variable from their parent function while in a private funtion, all variables are localized and does not have any link to the variable from its parent function. [function fa() { var a; function fb() {a+1}; return fb} ==> *fb is a Closure*]; [function fa() { var a; function fb() {var b; b+1}; return fb} ==> *fb is a Private Function*]
-
+- Promises vs Callback funtion - Callback is a series single threaded asynchronous operations that nest funtions within another as parameters. Promises lets you improve on such operation by writing your code as if they are sychronous operations  happening simultaneously. Actually ES6 lets you run those multiple function calls simultaneously. Promises provides more manageable code over
+callbacks and promises makes it smooth and easy to catch errors at every step and can perform a separate operation based on the caught error.
 //
 - VCS / GIT
 - Git Setup - http://rogerdudler.github.io/git-guide/, http://git-scm.com/
