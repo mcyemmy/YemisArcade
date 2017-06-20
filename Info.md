@@ -50,9 +50,7 @@
 - Books (on 4shared)- Pragmatic Programmer, javascript design pettern by Addy osmani(link above under online tutorial), JavaScript: The Good Parts, Pro JavaScript Design Patterns
 - Js interview questions - stackoverflow.com/questions/1684917/what-questions-should-a-javascript-programmer-be-able-to-answer
 - Javascript code should always be minified and obfuscated before deployment for security reasons.
-- Object-oriented - Has intrisic PropertiesData(Nouns) and funtionsMethods(Verbs). it is reusable and inheritable.
-- Object-oriented in Javascripts allows inheritance but is not class-based
-- undefine is no-assignment, null is empty-assignment. undefined*2=NaN, Null*2=0.
+- undefine vs null. [var foo; console.log(typeof(foo)); ==> *Undefined*]; [var foo=null; console.log(typeof(foo)); ==> *object*]; [var foo=0; console.log(typeof(foo)); ==> *number*]; [var foo=""; console.log(typeof(foo)); ==> *string*]. undefine(variable declared but not assigned) vs null(variable declared and assigned a value of "null")
 - Hoisting is a concept in Javascript that moves all variables to the top of the code before other part of the execution proceeds. Which means you can make reference to a variable before it is declared(or declared down the line), without getting an exception.
 - Due to lexical scoping, any function in Javascript can be a closure and it does not have to only be an inner function. Closures are functions that remember the variables passed to them from their external environment or function. Meaning those variables are preserved and can be referenced again and again unlike local variables which are deleted when execution completes.
 
