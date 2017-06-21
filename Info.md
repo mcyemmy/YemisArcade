@@ -56,6 +56,9 @@
 - Private functions vs closures - Closures usually maintains a link to a variable from their parent function while in a private funtion, all variables are localized and does not have any link to the variable from its parent function. [function fa() { var a; function fb() {a+1}; return fb} ==> *fb is a Closure*]; [function fa() { var a; function fb() {var b; b+1}; return fb} ==> *fb is a Private Function*]
 - [Promises vs Callback](https://stackoverflow.com/questions/22539815/arent-promises-just-callbacks) - Callback functions are useful for single threaded asynchronous operations that nest those functions within one another as parameters. Promises lets you improve on such operation by writing your code as if they are sychronous operations  happening simultaneously. Actually ES6 lets you run those multiple function calls simultaneously. Promises provides more manageable code(using rresolve, reject, then keyword) over callbacks and promises makes it smooth and easy to catch errors at every step when one of the promises are rejected and can perform a separate operation based on the caught error.
 - Immediately invoked function Expression [(IIFE)](http://adripofjavascript.com/blog/drips/an-introduction-to-iffes-immediately-invoked-function-expressions.html) are functions that are self-executing anonymous functions, without any call made to them. IIFE are very useful for data privacy so as to protect any interference from other external funtions. They also prevent their variable from being hoisted in a global space.
+- JSON can simply be defined as the nesting of JS Object and array to store data (referred to as JS Object Notation).
+- Ajax can simply be defined as the asynchronous(synchronous) loading of data into a webpage through the XMLHttpRequest(xhr) object, without page reload.
+
 //
 - VCS / GIT
 - Git Setup - http://rogerdudler.github.io/git-guide/, http://git-scm.com/
