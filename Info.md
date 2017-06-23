@@ -1,4 +1,4 @@
-## Projects NOT on Github
+## Live Projects
 
 - [TD Ameritrade](https://www.tdameritrade.com)
 - [TD Living Styleguide](https://invest.ameritrade.com/lsg/internal/index.html)
@@ -8,14 +8,14 @@
 - [AOL Adlearn OP](http://www.adlearnop.com)
 
 
-## Tools
+## DEV Tools
 
 - **Languges** - Html5, CSS3/SASS, Javascript
 - **Frameworks** - AngularJs, JQuery, Bootstrap, MAVO
-- **Task runner** - Gulp
-- **Packages** - Browserify, UglifyJs2, Karma, Pug/Jade, JSHint, CSSLint, CssNano, autoprefixer
-- **VCS** - Git 
-
+- **Build** - Gulp, Jenkins
+- **Packages** - Browserify, UglifyJs2, Pug/Jade, JSHint, CSSLint, CssNano, autoprefixer
+- **VCS** - Git, SVN
+- **Coding/Command line** - Sublime, Bracket, Emmet, Console2, GIT bash
 
 ## Research
 
@@ -24,11 +24,6 @@
 - **Javascript blog** - http://javascriptweekly.com
 - [Smashing Magazine](https://www.smashingmagazine.com)
 - *Others** - css-tricks, sixrevisions, techcrunch, sitepoint, tutsplus, techrepublic, geek.com
-
-//
-- Links
-- Job site- linkedIn, cyberCoders, indeed, careerBuilder, Dice
-- Online Tutorials - http://www.webmonkey.com/tutorials, youtube.com
 
 // 
 - MobileAppDev
@@ -70,6 +65,12 @@
 - vh, vw, vmin, vmax are percentage values relative to the viewport while x% is a percentage value relative to native/natural pixel value of 16px
 - http://bricss.net/
 - Stylus - http://blog.teamtreehouse.com/getting-started-stylus and https://github.com/stylus/stylus
+
+
+//
+- Links
+- Job site- linkedIn, cyberCoders, indeed, careerBuilder, Dice
+- Online Tutorials - http://www.webmonkey.com/tutorials, youtube.com
 
 //
 - Dev Tools
