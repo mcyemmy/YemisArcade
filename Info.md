@@ -10,12 +10,14 @@
 
 ## DEV Tools
 
-- **Languges** - Html5, CSS3/SASS, Javascript
-- **Frameworks** - AngularJs, JQuery, Bootstrap, MAVO
+- **Languges** - Html5, CSS3, Javascript
+- **Frameworks** - AngularJs, JQuery, Bootstrap, SASS, MAVO, DrupalCMS
+- **Web Accessibility** - WAVE, NVDA, Chromevox. 
 - **Build** - Gulp, Jenkins
 - **Packages** - Browserify, UglifyJs2, Pug/Jade, JSHint, CSSLint, CssNano, autoprefixer
 - **VCS** - Git, SVN
 - **Coding/Command line** - Sublime, Bracket, Emmet, Console2, GIT bash
+ - **Miscellaneous** - Jira (Project/bug tracking), Crucible (Code Review), Trello (Agile Sprint Board),
 
 ## Research
 
