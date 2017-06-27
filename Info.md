@@ -56,6 +56,15 @@
 - JSON can simply be defined as the nesting of JS Object and array to store data (referred to as JS Object Notation).
 - Ajax can simply be defined as the asynchronous(synchronous) loading of data into a webpage through the XMLHttpRequest(xhr) object, without page reload.
 
+// Angular JS
+Data-driven HTML application. An MVC framework for building Single Page Application. Under its hood are Data binding, Templating, Routing
+Data binding - Synchronizing data pieces for Model and View
+Templating - Dynamically updating the DOM with multiple page content
+Routing - Handling url hash fragment
+
+// Angular 2
+A complete rewrite of Angular JS
+
 //
 - VCS / GIT
 - Git Setup - http://rogerdudler.github.io/git-guide/, http://git-scm.com/
