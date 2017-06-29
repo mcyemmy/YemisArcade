@@ -57,24 +57,24 @@
 - Ajax can simply be defined as the asynchronous(synchronous) loading of data into a webpage through the XMLHttpRequest(xhr) object, without page reload.
 
 // Angular JS
-Data-driven HTML application. An MVC framework for building Single Page Application where just the views changes and no page load is required because the template stays in place. Whenever you need to build a Javascript-heavy application that is modular, future-proof and  maintainable, then Angular should be your go to framework.
-Under the hood are ng Directives, Data binding, Templating, Routing
-ng Directives - Markup-like attributes that extends HTML into the web application it really should be.
-Data binding - Synchronize data between Model and View
-Templating - Dynamically update the view with changing contents
-Routing - Handling url hash fragment through routeProvider, templateUrl and Controllers
-Dependency injection - Pulling in required services like angular factory, HTTP, etc
-Filters, Controllers, Model, View
+- Data-driven HTML application. An MVC framework for building Single Page Application where just the views changes and no page load is required because the template stays in place. Whenever you need to build a Javascript-heavy application that is modular, future-proof and  maintainable, then Angular should be your go to framework.
+- Under the hood are ng Directives, Data binding, Templating, Routing
+- Directives - Markup-like attributes that extends HTML into the web application it really should be.
+- Data binding - Synchronize data between Model and View
+- Templating - Dynamically update the view with changing contents
+- Routing - Handling url hash fragment through routeProvider, templateUrl and Controllers
+- Dependency injection - Pulling in required services like angular factory, HTTP, etc
+- Filters, Controllers, Model, View
 
+// Angular 4
+- An upgrade on Angular 2, not a complete re-write like it was from AngularJS to Angular 2
+- Released as a bootstrap like Angular 2 where you use the Angular CLI for your project
+- Module
+- Component Every angular application contains at least one component called the root component. Components contain the HTML template view, logic controller and data model. Components sometimes contain multiple smaller more manageable components. 
+- Template -  Dynamically update the view with changing contents
+- Directives - These are Markup-like attributes that lets you defines data-binding and behavior of presentation components. While some are native to Angular, custom directives can also be declared. Directives can be structural to alter layout or attribute directives to alter appearance and behavior
+- Services - Almost anything can be a service. A service is typically a class with a narrow, well-defined purpose. It should do something specific and do it well. For example - logging service, data service, message bus, tax calculator, application configuration.  Components are big consumers of services. Component classes should be lean. They don’t fetch data from the server, validate user input, or log directly to the console. They delegate such tasks to services.
 
-// Angular 2
-A complete rewrite of Angular JS
-Building blocks - Components, Directives, Data-binding, Router, Services
-Component - Every angular application contains at least one component called the root component. Components contain the HTML view/template, logic, data. Components sometimes contain multiple smaller more manageable components.
-Directives - 
-Data-binding - 
-Router - 
-Services - 
 
 //
 - VCS / GIT
