@@ -57,13 +57,19 @@
 - Ajax can simply be defined as the asynchronous(synchronous) loading of data into a webpage through the XMLHttpRequest(xhr) object, without page reload.
 
 // Angular JS
-Data-driven HTML application. An MVC framework for building Single Page Application. Under its hood are Data binding, Templating, Routing
-Data binding - Synchronizing data pieces for Model and View
-Templating - Dynamically updating the DOM with multiple page content
-Routing - Handling url hash fragment
+Data-driven HTML application. An MVC framework for building Single Page Application where just the views changes and no page load is required because the template stays in place. Whenever you need to build a Javascript-heavy application that is modular, future-proof and  maintainable, then Angular should be your go to framework.
+Under the hood are ng Directives, Data binding, Templating, Routing
+ng Directives - Markup-like attributes that extends HTML into the web application it really should be.
+Data binding - Synchronize data between Model and View
+Templating - Dynamically update the view with changing contents
+Routing - Handling url hash fragment through routeProvider, templateUrl and Controllers
+Dependency injection - Pulling in required services like angular factory, HTTP, etc
+Filters, Controllers, Model, View
+
 
 // Angular 2
 A complete rewrite of Angular JS
+Building blocks - Components, Directives, Data-binding, Router, Services
 
 //
 - VCS / GIT
