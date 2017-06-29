@@ -78,10 +78,10 @@
 - Services - Almost anything can be a service. A service is typically a class with a narrow, well-defined purpose. It should do something specific and do it well. For example - logging service, data service, message bus, tax calculator, application configuration.  Components are big consumers of services. Component classes should be lean. They don’t fetch data from the server, validate user input, or log directly to the console. They delegate such tasks to services.
 - Other features and services -
 
-- URLs
-- (Angular Quick Overview)[https://codequs.com/p/Hyvz4TBK/angular-2-tutorial-the-architecture-of-an-angular-2-application/]
-- Angular Quick overview with Dart instead of Typescript)[https://webdev.dartlang.org/angular/guide/architecture]
-- (Angular Indepth Documentation)[https://angular.io/]
+- URLs (Angular)
+- [Quick Overview](https://codequs.com/p/Hyvz4TBK/angular-2-tutorial-the-architecture-of-an-angular-2-application/)
+- [Quick overview using Dart instead of Typescript](https://webdev.dartlang.org/angular/guide/architecture)
+- [Detailed Documentation](https://angular.io/)
 
 
 //
