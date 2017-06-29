@@ -70,6 +70,11 @@ Filters, Controllers, Model, View
 // Angular 2
 A complete rewrite of Angular JS
 Building blocks - Components, Directives, Data-binding, Router, Services
+Component - Every angular application contains at least one component called the root component. Components contain the HTML view/template, logic, data. Components sometimes contain multiple smaller more manageable components.
+Directives - 
+Data-binding - 
+Router - 
+Services - 
 
 //
 - VCS / GIT
