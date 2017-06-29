@@ -56,26 +56,22 @@
 - JSON can simply be defined as the nesting of JS Object and array to store data (referred to as JS Object Notation).
 - Ajax can simply be defined as the asynchronous(synchronous) loading of data into a webpage through the XMLHttpRequest(xhr) object, without page reload.
 
-// Angular JS
-
-
-- Directives - Markup-like attributes .
-- Data binding - Synchronize data between Model and View
-- Templating - Dynamically update the view with changing contents
-- Routing - Handling url hash fragment through routeProvider, templateUrl and Controllers
-- Dependency injection - Pulling in required services like angular factory, HTTP, etc
-- Filters, Controllers, Model, View
 
 // Angular 4
 - Data-driven HTML application. Angular 4 is an MVC framework for building Single Page Application where just the views changes and no page load is required because the template stays in place. Whenever you need to build a Javascript-heavy application that is modular, future-proof and  maintainable, then Angular should be your go to framework.
-- Under the hood are Modules, Components, Services, Directives, Data binding, Templates, Routers
-- An upgrade on Angular 2, not a complete re-write like it was from AngularJS to Angular 2
+- Under the hood are Modules, Components, Services and Directives
+- Angular 4 is an upgrade to Angular 2, not a complete re-write like it was from AngularJS to Angular 2
 - Released as a bootstrap like Angular 2 where you use the Angular CLI for your project
 - Module - A module is a set of similar utilities that perform a similar task and typically exports something of a purpose that are imported by other modules that needs them.
 - Component - Every angular application contains at least one component called the root component. Components contain the HTML template view, logic controller and data model. Components sometimes contain multiple smaller more manageable components. 
 - Directives - These are Markup-like attributes that extends HTML to be the web application that it really should be. It let you defines data-binding and behavior of presentation components. While some are native to Angular, custom directives can also be declared. Directives can be structural to alter layout or attribute directives to alter appearance and behavior
-- Services - Almost anything can be a service. A service is typically a class with a narrow, well-defined purpose. It should do something specific and do it well. For example - logging service, data service, message bus, tax calculator, application configuration.  Components are big consumers of services. Component classes should be lean. They don’t fetch data from the server, validate user input, or log directly to the console. They delegate such tasks to services. Services typically handles ser
-- Other features and services - 
+- Services - Almost anything can be a service. A service is typically a class with a narrow, well-defined purpose. It should do something specific and do it well. For example - logging service, data service, validation service, cache data, application configuration, etc.  Components are big consumers of services. Component classes should be lean. They don’t fetch data from the server, validate user input, store browser data(cache) or log directly to the console. They delegate such tasks to services. Typically a component should only deal with the user experience and the display of properties and use services to perform heavy behind the scenes operations.
+- Other features and services - Data binding, Templates, Routers, filters
+- Data binding - Synchronize data between Model and View
+- Templates - Dynamically update the view with changing contents
+- Routers - Handling url hash fragment through routeProvider, templateUrl and Controllers
+- Dependency injection - Pull in required services into the controller before they become available to the component.
+- Filters, Controllers, Model, View
 
 // URLs (Angular)
 - [Quick Overview](https://codequs.com/p/Hyvz4TBK/angular-2-tutorial-the-architecture-of-an-angular-2-application/)
