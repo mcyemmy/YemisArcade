@@ -68,17 +68,16 @@
 
 // Angular 4
 - Data-driven HTML application. Angular 4 is an MVC framework for building Single Page Application where just the views changes and no page load is required because the template stays in place. Whenever you need to build a Javascript-heavy application that is modular, future-proof and  maintainable, then Angular should be your go to framework.
-- Under the hood are ng Directives, Data binding, Templating, Routing
+- Under the hood are Modules, Components, Services, Directives, Data binding, Templates, Routers
 - An upgrade on Angular 2, not a complete re-write like it was from AngularJS to Angular 2
 - Released as a bootstrap like Angular 2 where you use the Angular CLI for your project
-- Module
-- Component Every angular application contains at least one component called the root component. Components contain the HTML template view, logic controller and data model. Components sometimes contain multiple smaller more manageable components. 
-- Template -  Dynamically update the view with changing contents
+- Module - A module is a set of similar utilities that perform a similar task and typically exports something of a purpose that are imported by other modules that needs them.
+- Component - Every angular application contains at least one component called the root component. Components contain the HTML template view, logic controller and data model. Components sometimes contain multiple smaller more manageable components. 
 - Directives - These are Markup-like attributes that extends HTML to be the web application that it really should be. It let you defines data-binding and behavior of presentation components. While some are native to Angular, custom directives can also be declared. Directives can be structural to alter layout or attribute directives to alter appearance and behavior
-- Services - Almost anything can be a service. A service is typically a class with a narrow, well-defined purpose. It should do something specific and do it well. For example - logging service, data service, message bus, tax calculator, application configuration.  Components are big consumers of services. Component classes should be lean. They don’t fetch data from the server, validate user input, or log directly to the console. They delegate such tasks to services.
-- Other features and services -
+- Services - Almost anything can be a service. A service is typically a class with a narrow, well-defined purpose. It should do something specific and do it well. For example - logging service, data service, message bus, tax calculator, application configuration.  Components are big consumers of services. Component classes should be lean. They don’t fetch data from the server, validate user input, or log directly to the console. They delegate such tasks to services. Services typically handles ser
+- Other features and services - 
 
-- URLs (Angular)
+// URLs (Angular)
 - [Quick Overview](https://codequs.com/p/Hyvz4TBK/angular-2-tutorial-the-architecture-of-an-angular-2-application/)
 - [Quick overview using Dart instead of Typescript](https://webdev.dartlang.org/angular/guide/architecture)
 - [Detailed Documentation](https://angular.io/)
