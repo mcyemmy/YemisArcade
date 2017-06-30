@@ -77,6 +77,7 @@
 // URLs (Angular)
 - [Quick Overview](https://codequs.com/p/Hyvz4TBK/angular-2-tutorial-the-architecture-of-an-angular-2-application/)
 - [Quick overview using Dart instead of Typescript](https://webdev.dartlang.org/angular/guide/architecture)
+- [Angular 1 vs Angula 2](https://thinkster.io/tutorials/differences-between-angular-1-and-2)
 - [Detailed Documentation](https://angular.io/)
 
 
