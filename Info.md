@@ -60,14 +60,14 @@
 // Angular 4
 - Data-driven HTML application. Angular 4 is an MVC framework/platform for building Single Page Application where just the views changes and no page load is required because the template stays in place. Whenever you need to build a Javascript-heavy application that is modular, future-proof and  maintainable, then Angular should be your go to framework.
 - Under the hood are Modules, Components, Services and Directives
-- Angular 4 is an upgrade to Angular 2, not a complete re-write like it was from AngularJS to Angular 2
-- Released as a bootstrap like Angular 2 where you use the Angular CLI for your project
+- Angular 4 is an upgrade from Angular 2, not a complete re-write like it was from AngularJS to Angular 2
+- What has changed from Angular 1 to Angular 2(4) - Component not controller, bootstrap not ng-app, faster, class-based(ES 6 and Typescript), syntax changes in two-way binding.
 - Module - A module is a set of similar utilities that perform a similar task and typically exports something of a purpose that are imported by other modules that needs them.
 - Component - Every angular application contains at least one component called the root component. Components contain the HTML template view, logic and data model. Components sometimes contain multiple smaller more manageable components. A component is just a Typescript class without the metadata that defines it to Angular. 
 - Directives - These extends HTML to be the web application that it really should be. It let you defines structure and behavior of presentation components. While some are native to Angular, custom directives can also be declared. Directives can be structural to alter layout or attribute directives to alter appearance and behavior
 - Services - Almost anything can be a service. A service is typically a class with a narrow, well-defined purpose. It should do something specific and do it well. For example - logging service, data service, validation service, cache data, application configuration, etc.  Components are big consumers of services. Component classes should be lean. They don’t fetch data from the server, validate user input, store browser data(cache) or log directly to the console. They delegate such tasks to services. Typically a component should only deal with the user experience and the display of properties and use services to perform heavy behind the scenes operations.
 - Other features and services - Data binding, Templates, Metadata, Routers, filters
-- Data binding - Synchronize data between Model and View
+- Data binding - Synchronize data between Model and View - two-way binding, property binding, event binding and 
 - Templates - Dynamically update the view with changing contents
 - Routers - Handling url hash fragments.
 - Dependency injection - Pull in required services into the controller before they become available to the component.
