@@ -71,7 +71,6 @@
 - Templates - Dynamically update the view with changing contents
 - Routers - Handling url hash fragment through routeProvider, templateUrl and Controllers
 - Dependency injection - Pull in required services into the controller before they become available to the component.
-- Filters, Controllers, Model, View
 
 // URLs (Angular)
 - [Quick Overview](https://codequs.com/p/Hyvz4TBK/angular-2-tutorial-the-architecture-of-an-angular-2-application/)
