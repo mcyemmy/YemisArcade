@@ -58,7 +58,7 @@
 
 
 // Angular 4
-- Data-driven HTML application. Angular 4 is an MVC framework/platform for building Single Page Application where just the views changes and no page load is required because the template stays in place. Whenever you need to build a Javascript-heavy application that is modular, future-proof and  maintainable, then Angular should be your go to framework. In Angular, the components are decoupled from the DOM through its MVC framework but they are integrated into each other through data binding and metadata.
+- Data-driven HTML application. Angular 4 is an MVC framework/platform for building Single Page Application where just the views changes and no page load is required because the template stays in place. Whenever you need to build a Javascript-heavy application that is modular, future-proof and  maintainable, then Angular should be your go to framework. In Angular, the components are decoupled from the DOM through its MVC framework but they are integrated into each other through data binding and the metadata. This decoupling makes the application to be unit testable.
 - Under the hood are Modules, Components, Services and Directives
 - Angular 4 is an upgrade from Angular 2, not a complete re-write like it was from AngularJS to Angular 2
 - What has changed from Angular 1 to Angular 2(4) - Component not controller, bootstrap not ng-app, faster, class-based(ES 6 and Typescript), syntax changes in two-way binding.
