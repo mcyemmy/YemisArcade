@@ -58,10 +58,12 @@
 
 
 // Angular 4
+- **Personal Opinion** - Angular 4 (unlike AngularJS1 framework) is an IDE, Integrated Development Environment, where you have all the parts and pieces required to build a fully functional web application. You have the language(Typescript), the Template(HTML), the Metadata (turns Typescript class into an Angular Component). 
+- Angular 4 is an upgrade from Angular 2 but it is a complete re-write of AngularJS1. 
+- The angular CLI helps to manage the entire project from app installation to running the localhost server.
 - Data-driven HTML application. Angular 4 is an MVC framework/platform for building Single Page Application where just the views changes and no page load is required because the template stays in place. Whenever you need to build a Javascript-heavy application that is modular, future-proof and  maintainable, then Angular should be your go to framework. In Angular, the components are decoupled from the DOM through its MVC framework but they are integrated into each other through data binding and the metadata. This decoupling makes the application to be unit testable.
 - Under the hood are Modules, Components, Services and Directives
-- Angular 4 is an upgrade from Angular 2, not a complete re-write like it was from AngularJS to Angular 2
-- What has changed from Angular 1 to Angular 2(4) - Component not controller, bootstrap not ng-app, faster, class-based(ES 6 and Typescript), syntax changes in two-way binding.
+- What has changed from Angular 1 to Angular 2(4) - Component not controller, bootstrap not ng-app, is faster, is class-based (ES 6 and Typescript), syntax changes in two-way binding and others.
 - Module - A module is a set of similar utilities that perform a similar task and typically exports something of a purpose that are imported by other modules that needs them.
 - Component - A component is simply a typescript class bound to a template view and exposed to the angular application through metadata. Every angular application contains at least one component called the root component. Components contain the HTML template view, logic and data model. Components sometimes contain multiple smaller more manageable components.
 - Directives - To modify DOM elements and/or extend their behaviors. Extends HTML INTO the web application that it really should be. Directives can be structural directives to alter the DOM or attribute directives to alter appearance and behavior. While some are native to Angular, custom directives can also be declared.
@@ -71,6 +73,7 @@
 - Templates - Dynamically update the view with changing contents
 - Routers - Handling url hash fragments.
 - Dependency injection - Pull in required services into the controller before they become available to the component.
+- Observables is a wrapper around a stream of data. It uses the observer to execute some code when a particular stream of data is received.
 
 - Typescript is a strongly Typed and class-based Javascript.
 
