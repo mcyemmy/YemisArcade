@@ -74,7 +74,7 @@
 - Templates - This is the part that the client sees. Dynamically update the view with changing contents
 - Dependency injection - Pull in required services into the controller before they become available to the component.
 - Observables is a wrapper around a stream of data. It uses the observer to execute some code when a particular stream of data is received.
-- ngOnInit() is triggered right after the first instantiation of a directive's data-bound properties and before any of its children have been checked. It is invoked only once when the directive is instantiated. ngAfterViewInit() is called after a component's view, and its children's views, are created. Its a lifecycle hook that is called after a component's view has been fully initialized.. To use ngOnInit, you have to first import onInit from the Angular core module.
+- ngOnInit() is invoked only once and that is right after the first instantiation of a directive's data-bound properties and before any of its children have been checked. ngAfterViewInit() is invoked after a component's view, and its children's views has been fully instantiated. To use ngOnInit, you have to first import onInit from the Angular core module.
 - 
 
 - Typescript is a strongly Typed and class-based Javascript.
