@@ -69,12 +69,13 @@
 - Directives - These are instructions in the DOM used to modify elements and/or extend their behaviors. It extends HTML INTO the web application that it really should be. Directives can be structural directives to alter the DOM or can be attribute directives to alter appearance and behavior. While some are native to Angular, custom directives can also be created.
 - Services - Almost anything can be a service. A service is simply a class with a narrow, well-defined purpose that has nothing to do with the view or UI. It should do something specific and do it well. For example - logging service, http service, validation service, data caching, application configuration, etc.  Components are big consumers of services. Component classes should be lean. They don’t fetch data from the server, validate user input, store browser data(cache) or log directly to the console. They delegate such tasks to services. Typically a component should only deal with the user experience and the display of properties and use services to perform heavy behind the scenes operations.
 - Routers - Handles single page navigation through url hash fragments.
-- Other features and services - Data binding, Templates, Metadata, Routers, filters
+- Other features and services - Data binding, Templates, Metadata, Routers, Pipes(formerly filters)
 - Data binding - Handles communication between the component and the view. Synchronize data between Model and View - two-way binding, property binding, event binding and String interpolation
 - Templates - This is the part that the client sees. Dynamically update the view with changing contents
 - Dependency injection - Pull in required services into the controller before they become available to the component.
 - Observables is a wrapper around a stream of data. It uses the observer to execute some code when a particular stream of data is received. The observer need to subscribe to the observable stream of invent in order for the observer to be triggered.
 - ngOnInit() is invoked only once and that is right after the first instantiation of a directive's data-bound properties and before any of its children have been checked. ngAfterViewInit() is invoked after a component's view, and its children's views has been fully instantiated. To use ngOnInit, you have to first import onInit from the Angular core module.
+- Pipes - Used for transforming the view outputs. For example - date pipi, text transform pipe. Multiple pipe is called Pipe Chaining.
 - 
 
 - Typescript is a strongly Typed and class-based Javascript.
