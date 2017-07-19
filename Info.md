@@ -77,7 +77,7 @@
 - Observables is a wrapper around a stream of data. It uses the observer to execute some code when a particular stream of data is received. The observer need to subscribe to the observable stream of invent in order for the observer to be triggered.
 - ngOnInit() is invoked only once and that is right after the first instantiation of a directive's data-bound properties and before any of its children have been checked. ngAfterViewInit() is invoked after a component's view, and its children's views has been fully instantiated. To use ngOnInit, you have to first import onInit from the Angular core module.
 - Pipes - Used for transforming the view outputs. For example - date pipi, text transform pipe. Multiple pipe is called Pipe Chaining.
-- 
+- Install nodejs with package manager option >> (anywhere) npm install -g @angular/cli >> (under desired folder path) ng new ProjectFolderName >> cd into ProjectFolderName >> ng serve (or first run "ng install" if "ng serve" doesn't work)
 
 - Typescript is a strongly Typed and class-based Javascript.
 
