@@ -21,9 +21,9 @@
 
 ## Research
 
-- [CSS blog](http://css-weekly.com)
-- [html5 blog] (http://frontendfocus.co)
-- [Javascript blog](http://javascriptweekly.com)
+- [CSS blog](http://css-weekly.com/issue-273)
+- [html5 blog](https://frontendfoc.us/issues)
+- [Javascript blog](http://javascriptweekly.com/issues/333)
 - [Smashing Magazine](https://www.smashingmagazine.com)
 - [API](https://www.programmableweb.com)
 - *Others** - css-tricks, sixrevisions, techcrunch, sitepoint, tutsplus, techrepublic, geek.com
