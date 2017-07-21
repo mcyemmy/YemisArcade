@@ -59,7 +59,7 @@
 
 // API and RESTful API
  - An API is a code that spells out the proper way for a developer to write a program requesting services from an operating system or other application, that means allowing two software programs to communicate with each another and/or consume data from the other.  With cloud use on the rise, **APIs are emerging to expose web services**. REST is a logical choice for building APIs that allow users to connect and interact with cloud services. 
- - A RESTful API, also referred to as a RESTful web service -- is based on representational state transfer (REST) technology, an architectural style and approach to communications often used in web services development. [Read More](https://softwareengineering.stackexchange.com/questions/205999/when-to-use-rest-to-handle-requests-vs-using-ajax-to-handle-requests)
+ - A RESTful API, also referred to as a RESTful web service -- is based on representational state transfer (REST) technology, an architectural style and approach to communications often used in web services development through the use of uri's and HTTP(Could be other protocols but mainly http). The URI should only be identifying the nouns(data entities) while the HTTP part should handle the verbs(POST, GET, PUT, DELETE) [Read More](https://softwareengineering.stackexchange.com/questions/205999/when-to-use-rest-to-handle-requests-vs-using-ajax-to-handle-requests)
 
 
 
