@@ -21,10 +21,11 @@
 
 ## Research
 
-- **CSS blog** - http://css-weekly.com
-- **html5 blog** - http://frontendfocus.co
-- **Javascript blog** - http://javascriptweekly.com
+- [CSS blog](http://css-weekly.com)
+- [html5 blog] (http://frontendfocus.co)
+- [Javascript blog](http://javascriptweekly.com)
 - [Smashing Magazine](https://www.smashingmagazine.com)
+- [API](https://www.programmableweb.com)
 - *Others** - css-tricks, sixrevisions, techcrunch, sitepoint, tutsplus, techrepublic, geek.com
 
 // 
