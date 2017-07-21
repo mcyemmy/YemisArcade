@@ -55,7 +55,11 @@
 - Immediately invoked function Expression [(IIFE)](http://adripofjavascript.com/blog/drips/an-introduction-to-iffes-immediately-invoked-function-expressions.html) are functions that are self-executing anonymous functions, without any call made to them. IIFE are very useful for data privacy so as to protect any interference from other external funtions. They also prevent their variable from being hoisted in a global space.
 - JSON (referred to as JS Object Notation) is an Object/array format for storing and sharing data between browser and server.
 - Ajax is asynchronous(synchronous) loading of data from the server through HttpRequest(xhr) without page reload. AJax can be through a regular http call or through a special web service called REST. 
-- REST - Is a web service used by ajax for fetching data from the server by encoding entity and method in the browser url. While HTTP is mostly used in this instance, it is also good to note that REST is protocol-independent. [Read More](https://softwareengineering.stackexchange.com/questions/205999/when-to-use-rest-to-handle-requests-vs-using-ajax-to-handle-requests)
+
+// API and RESTful API
+ - An API for a website is code that allows two software programs to communicate with each another. The API spells out the proper way for a developer to write a program requesting services from an operating system or other application.  With cloud use on the rise, **APIs are emerging to expose web services**. REST is a logical choice for building APIs that allow users to connect and interact with cloud services. 
+ - A RESTful API, also referred to as a RESTful web service -- is based on representational state transfer (REST) technology, an architectural style and approach to communications often used in web services development. [Read More](https://softwareengineering.stackexchange.com/questions/205999/when-to-use-rest-to-handle-requests-vs-using-ajax-to-handle-requests)
+
 
 
 // Angular 4
@@ -87,9 +91,6 @@
 - [AngularJs 1 vs Angular 2](https://thinkster.io/tutorials/differences-between-angular-1-and-2)
 - [Angular 2 vs Angular 4] (http://angularjs.blogspot.com/2017/03/angular-400-now-available.html)
 - [Detailed Documentation](https://angular.io/)
-
-// API and RESTful API
- - Application Programming Interface (API) is simply an interface for software. Say for example you are writing an application and need to consume data from another application within your own application, the API for that other software is what you can plug into yours so as to consume data from that other application. It is like an electrical extension box with its wirings(software code) linked to a power supply(the data) but has a socket interface (API) that other bigger electrical devices(developed software) can connect to.
 
 //
 - VCS / GIT
