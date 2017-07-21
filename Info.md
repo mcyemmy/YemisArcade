@@ -88,6 +88,8 @@
 - [Angular 2 vs Angular 4] (http://angularjs.blogspot.com/2017/03/angular-400-now-available.html)
 - [Detailed Documentation](https://angular.io/)
 
+// API and RESTful API
+ - Application Programming Interface (API) is simply an interface for software. Say for example you are writing an application and need to consume data from another application within your own application, the API for that other software is what you can plug into yours so as to consume data from that other application. It is like an electrical extension box with its wirings(software code) linked to a power supply(the data) but has a socket interface (API) that other bigger electrical devices(developed software) can connect to.
 
 //
 - VCS / GIT
