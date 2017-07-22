@@ -98,6 +98,13 @@
 - [Angular 2 vs Angular 4] (http://angularjs.blogspot.com/2017/03/angular-400-now-available.html)
 - [Detailed Documentation](https://angular.io/)
 
+// 
+Cloud Computing
+
+- Google Cloud Compute Engine - It's Iaas, provision multiple private VMs, on a network of systems, having Persistent Disk, with Load balancing, connect and configure as desired, HTTP and JSON API(for Command line tool, developer console and more), develop and run applications with same access to all features, Automated process, distributed systems. 
+
+- Windows Azure -  It's Iaas + Paas together in one, provision and configure the VM infrastratures and Platform services you wish to work with, Quickly create and deploy projects without the rigorous IIS server process, Develop, run, test and publish apps in the azure cloud instead of localhost, customize the azure in visual studio 2015 or 16, specify vms to allocate to scale, review web role settings
+
 //
 - VCS / GIT
 - Git Setup - http://rogerdudler.github.io/git-guide/, http://git-scm.com/
