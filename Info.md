@@ -68,8 +68,8 @@
  - Only POST is non-idempotent, meaning it does NOT produce the same result at the endpoint when multiple requests are sent for the same resource but it instead creates separate multiple endpoint results.
  - A RESTful API can be implemented through any programming language that lets you make http request to the serve(Ajax call) for a Json file. Whenever you need to pull(GET) and consume some data through this RESTful API, just plug in you URI entities through a form interface provided for it. Idempotency requirement states that system must be designed in a way that they can consume the same resource multiple times without causing a stale or invalid state.
  - You can implement REST API through any language that can make http request to the server through the following algorithmic process
- To implement REST through Angular 4, import the HttpClientModule into App module, import HttpClient into AppComponent or preferred component, invoke ngOnInit, create an observable with an observer function that subscribes to the http GET request, add your resource entity and parameters as an endpoint url, consume the returned data file whichever way you want.
- - Unlike Ajax that specifies the target resource through the code, REST specifies it through the url.
+ To implement REST through Angular 4, import the HttpClientModule into App module, import HttpClient into AppComponent or preferred component, invoke ngOnInit, create an observable with an observer function that subscribes to the http GET request, add your resource entity (List and Individual items) and parameters as an endpoint url, consume the returned data file whichever way you want.
+ - AJAX vs REST - Ajax focuses on auto-updating the UI through code without entire page reload WWHILE REST provides resources through url or API to other applications that requires it. 
  
  [Read More](https://softwareengineering.stackexchange.com/questions/205999/when-to-use-rest-to-handle-requests-vs-using-ajax-to-handle-requests) 
 - [API](https://www.programmableweb.com)
