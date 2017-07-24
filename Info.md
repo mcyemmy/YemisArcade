@@ -57,6 +57,8 @@
 - Immediately invoked function Expression [(IIFE)](http://adripofjavascript.com/blog/drips/an-introduction-to-iffes-immediately-invoked-function-expressions.html) are functions that are self-executing anonymous functions, without any call made to them. IIFE are very useful for data privacy so as to protect any interference from other external funtions. They also prevent their variable from being hoisted in a global space.
 - JSON (referred to as JS Object Notation) is an Object/array format for storing and sharing data between browser and server.
 - Ajax is asynchronous(synchronous) loading of data from the server through HttpRequest(xhr) without page reload. AJax can be through a regular http call or through a special web service called REST. 
+- Asynchronous request lets the app continue processing other activities while it waits for feedback(informed through call back) about its request to the server.  While Synchronous halts other processes until its request to the serve is complete.
+
 
 // API and RESTful API
  - An API is a method by which the third-party vendors can write programs that interface easily with other programs to request services from an operating system or other application, that means allowing two software programs to communicate with each another and/or consume data from the other.  With cloud use on the rise, **APIs are emerging to expose web services. Keep in mind that your target users when developing APIs are other developers that want to consume the data and web services that you expose to them through the API**. REST is a logical choice for building APIs that allow users to connect and interact with cloud services. 
