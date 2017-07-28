@@ -87,7 +87,7 @@
 - AngularJS is an MVC framework for building Single Page Application where just the views changes and no page load is required because the template stays in place. Whenever you need to build a Javascript-heavy application that is modular, future-proof and  maintainable, then Angular should be your go to framework. In Angular, the components are decoupled from the DOM through its MVC framework but they are integrated into each other through data binding and the metadata. This decoupling makes the application to be unit testable.
 - Angular 4 (unlike AngularJS1) is an IDF, Integrated Development Framework where you have all the parts and pieces required for building a fully functional web application. You have the Component, Services, Directives, Router and angularCLI to manage the project.
 - Angular 4 is an upgrade from Angular 2 but it is a complete re-write of AngularJS1. 
-- What has changed from Angular 1 to Angular 2(4) - Component not controller, bootstrap not ng-app, ngFor not ngRepeat, is faster, is class-based (ES 6 and Typescript), syntax changes in two-way binding and others.
+- What has changed from Angular 1 to Angular 2(4) - Component not controller, directives not #scope, bootstrap not ng-app, ngFor not ngRepeat, is faster, is class-based (ES 6 and Typescript), syntax changes in two-way binding and others.
 - Typescript is preferred because it is easier to refactor for large projects, has better readability, it's strongly typed and class-based.
 - An entire Angular 4 project are bootstrapped through main.ts to run in the browser. main.ts [points to] > appModule [which registers, declare and imports] > all the Component class used in the project [then app.component.ts uses the metadata like selector, templateUrl, styleUrls annotations points to] > <approot> element in index.html, custom markups in app.component.html and appp.component.css respectively
 - The angular CLI helps to manage the entire project from app installation to running the localhost server and compiling Typescript to Javascript.
@@ -111,6 +111,7 @@
 - [Quick Overview](https://codequs.com/p/Hyvz4TBK/angular-2-tutorial-the-architecture-of-an-angular-2-application/)
 - [Quick overview using Dart instead of Typescript](https://webdev.dartlang.org/angular/guide/architecture)
 - [AngularJs 1 vs Angular 2](https://thinkster.io/tutorials/differences-between-angular-1-and-2)
+- [AngularJs 1 vs Angular 2](https://dzone.com/articles/typed-front-end-with-angular-2)
 - [Angular 2 vs Angular 4] (http://angularjs.blogspot.com/2017/03/angular-400-now-available.html)
 - [Detailed Documentation](https://angular.io/)
 
