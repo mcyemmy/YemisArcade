@@ -112,6 +112,7 @@
 - [Quick overview using Dart instead of Typescript](https://webdev.dartlang.org/angular/guide/architecture)
 - [AngularJs 1 vs Angular 2](https://thinkster.io/tutorials/differences-between-angular-1-and-2)
 - [AngularJs 1 vs Angular 2](https://dzone.com/articles/typed-front-end-with-angular-2)
+- [Angular 2 vs Angular 4] (https://www.youtube.com/watch?v=qqk1g7CdYIE)
 - [Angular 2 vs Angular 4] (http://angularjs.blogspot.com/2017/03/angular-400-now-available.html)
 - [Detailed Documentation](https://angular.io/)
 
