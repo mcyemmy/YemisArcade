@@ -115,6 +115,7 @@
 - [Angular 2 vs Angular 4] (https://www.youtube.com/watch?v=qqk1g7CdYIE)
 - [Angular 2 vs Angular 4] (http://angularjs.blogspot.com/2017/03/angular-400-now-available.html)
 - [Detailed Documentation](https://angular.io/)
+- [Angular vs React] (https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc)
 
 // 
 Cloud Computing
