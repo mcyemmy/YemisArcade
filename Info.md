@@ -149,6 +149,78 @@ Cloud Computing
 - Console Terminal Setup - http://lifehacker.com/5834755/how-can-i-make-the-windows-command-prompt-better# (Go to Edit >> settings and add this under shell so as to point to GIT bash ("C:\Program Files (x86)\Git\bin\sh.exe" --login -i)
 - Bash Shell download - http://www.gnu.org/software/bash/
 - Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
+// Great Study urls
+https://scotch.io/tutorials/javascript-promises-for-dummies
+https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc
+
+
+// Setting up gulp locally
+1. Use existing or create a list of package dependencies in package.json to download required packages
+2. Put this package.json in the project directory
+3. Type "npm install" to install all the packages dependencies
+4. Create gulpfile.js in your project directory to contain a list of task that you want to run on your project 
+5. You can also create custom tasks that has names like html, styles, etc
+6. In package.json, make sure to add  "gulp": "gulp" under "script":{}. This will enable you to type "npm run gulp" to run all your task locally.
+7. In package.json, You could also add "<task>": "gulp <task>" under "script":{}. With this you can run "npm run <task>"
+8. If you do not do item 6 and 7 above, default way to run your gulp task locally will be ./node_modules/.bin/gulp <task>
+9. To make your index page automatically serve to the localhost and also sync to the browser, you have to at least do a one time initiation of "npm run gulp serve".
+
+//Commands
+npm install --save gulp-<package> - Install a package and add it to the dependencies list in package.json
+npm uninstall <package>
+npm run gulp - To run gulp locally
+npm view <package> version - View version number for any particular gulp task
+npm ls - list of all gulp package/module
+other useful packages - cssLint, 
+
+
+// Brackets shortcut
+- Goto any file - ctrl shift O
+- Edit CSS inline - ctrl E
+- Find and replace - ctrl H and ctrl Shift H
+- bracket select similar word shortcut - ctrl B
+
+
+// Brackets Plugin 
+Copy plugins setting from dropbox to new installation (Bracket Menu > help > Show extension Folder)
+- For Customwork, settings are moveToolBarToSide, toggleSidebar, splitButton, ScrollWheel-20
+- Typescript
+- Base16 Monokai Light Panels (See under Themes > under Extension manager)
+- Brackets Tree Icons
+- Emmet
+- Accessibility
+- Sass hint
+
+
+Tools and Frameworks
+**********
+- Bracket, Chrome, firefox
+- Bootstrap3, and html boilerplate
+- Node, Git, Console2, then configure console 2 to use git shell and icon (C:\Windows\SysWOW64\cmd.exe /c ""C:\Program Files\Git\bin\sh.exe" --login -i")
+- Ruby, sass
+- Yeoman & generators - configure file paths
+- Gulp @@include, autoprefixer, CssLint, libSass, liveReload
+- VS, sitecore Habitat
+
+
+File Organization
+************
+//Project - Themes - html, styles, js
+
+//html
+index.html, renderings, partials, 
+
+renderings - home.html, accounts.html, info.text (@@includes of the partials)
+partials -- contents, regions, patterns
+Contents - home-main.html, accounts-main.html, info.text
+regions -- header.html, footer.html, sidebar.html, main.html
+patterns -- base.html, widgets, modules, (At the top of base.html - Basic html elements that have been styled and reusable across board)
+html-utils - dom-head.html
+
+//styles
+
+style-utils -- variables.scss, mixins.scss, ie.scss
+
 
 //
  - ********************************************************************
