@@ -89,7 +89,7 @@
 - Angular 4 (unlike AngularJS1) is an IDF, Integrated Development Framework where you have all the parts and pieces required for building a fully functional web application. You have the Component, Services, Directives, Router and angularCLI to manage the project.
 - Angular 4 is an upgrade from Angular 2 but it is a complete re-write of AngularJS1. 
 - What has changed from Angular 1 to Angular 2(4) - Component not controller, directives not #scope, bootstrap not ng-app, ngFor not ngRepeat, is faster, is class-based (ES 6 and Typescript), syntax changes in two-way binding and others.
-- Typescript is preferred because it is easier to refactor for large projects, has better readability, it's strongly typed and class-based.
+- Typescript is preferred because it is easier to refactor for large projects, has better readability, is static/strongly typed and has class-inheritance, has decorators(functions that extends or modifies other functions without impacting the original code block).
 - An entire Angular 4 project are bootstrapped through main.ts to run in the browser. main.ts [points to] > appModule [which registers, declare and imports] > all the Component class used in the project [then app.component.ts uses the metadata like selector, templateUrl, styleUrls annotations points to] > <approot> element in index.html, custom markups in app.component.html and appp.component.css respectively
 - The angular CLI helps to manage the entire project from app installation to running the localhost server and compiling Typescript to Javascript.
 - Module - A module is a bundle of a set of utility logics or components with related funtionalities. They are usually imported by other modules when required.
