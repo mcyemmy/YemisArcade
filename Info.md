@@ -60,7 +60,7 @@
 - Asynchronous request lets the app continue processing other activities while it waits for feedback(informed through call back) about its request to the server.  While Synchronous halts other processes until its request to the serve is complete.
 
 
-// API and RESTful API
+// API and REST API
  - An API is a method by which vendors can write programs that interface easily with other programs to request services from an operating system or other application, that means allowing two software programs to communicate with each another and/or consume data from the other. 
  - Say for example that I need to consume a vendor's data/web services within my application so it can be useful for my clients, I'll need to go find that vendor's api and its supporting documentation to help me use api properly within With my application through their resource url and http request(GET in this case). Also lets say I want to promote my company's business data or business services within other vendors application, all I need is to just create an api and supporting documentation to help those other vendors consume my business data or services eithin their application. 
 - With cloud use on the rise, **APIs are emerging to expose web services. Keep in mind that your target users when developing APIs are other developers that want to consume the data and web services that you expose to them through the API**. REST is a logical choice for building APIs that allow users to connect and interact with cloud services. 
@@ -70,11 +70,12 @@
  - A RESTful API, also referred to as a RESTful web service -- is based on REpresentational State Transfer (REST) technology, an architectural style and approach to communications often used in web services development through the use of uri's and HTTP request(Could be other protocols but mainly http). The URI should only be identifying the nouns(data entities) while the HTTP request handles the verbs(POST, GET, PUT, DELETE).
 - REST means encoding which entity you want to retrieve or manipulate in the URL itself (usually via an ID) and encoding what action you want to perform on it in the HTTP method used (GET for retrieving, POST for changing, PUT for creating, DELETE for deleting).
  - Only POST is non-idempotent, meaning it does NOT produce the same result at the endpoint when multiple requests are sent for the same resource but it instead creates separate multiple endpoint results.
- - A RESTful API call can be implemented through any programming language that lets you make http request to the serve(Ajax call) for a Json file. Whenever you need to pull(GET) and consume some data through this RESTful API, just plug in you URI entities through a form interface provided for it. Idempotency requirement states that system must be designed in a way that they can consume the same resource multiple times without causing a stale or invalid state.
+ - Idempotency requirement states that system must be designed in a way that they can consume the same resource multiple times without causing a stale or invalid state.
  - You can implement REST API through any language that can make http request to the server through the following algorithmic process:
  Have a resource url that points to the endpoint and review its accompanying documentation. The url should contain the resource path and maybe parameters to trim down the result. These parameters can also be passed to the resource url through a form input and parsed in the code as part of the url. Make an http request to the server to locate the endpoint and perform a CRUD operation through this HttpRequest verbs (GET,POST,PUT,DELETE) depending on what you intend to do. You can transverse the result whichever way you want in the code and output the result to the UI or insert it into the url for other API call.
 -  To implement REST through Angular 4, import the HttpClientModule into App module, import HttpClient into AppComponent or preferred component, invoke ngOnInit, create the http GET or POST request, this returns an observable which can be subscribed to by an observer function to transverse the returned data whichever way you want.
- - AJAX vs REST - Ajax focuses on updating the UI through code without entire page reload WWHILE REST provides resources through url or API to other applications that requires it. 
+ - AJAX vs REST - Ajax is a web technique, REST is an architectural style. REST is not protocol-specific but AJAX is an HTTP technique. AJAX is one of those techniques by which access to a REST API can be implemented through HttpRequest (through the HTTP protocol)
+ - SOAP vs REST - SOAP is a protocol whicle REST is an architectural style. Caching is possible with REST. REST is more of a Web service while SOAP is more of SOAP services
  
  [Read More](https://softwareengineering.stackexchange.com/questions/205999/when-to-use-rest-to-handle-requests-vs-using-ajax-to-handle-requests) 
 - [API](https://www.programmableweb.com)
@@ -104,7 +105,7 @@
 - ngOnInit() is invoked only once and that is right after the first instantiation of a directive's data-bound properties and before any of its children have been checked. ngAfterViewInit() is invoked after a component's view, and its children's views has been fully instantiated. To use ngOnInit, you have to first import onInit from the Angular core module.
 - Pipes - Used for transforming the view outputs. For example - date pipi, text transform pipe. Multiple pipe is called Pipe Chaining.
 - Install nodejs with package manager option >> (anywhere) npm install -g @angular/cli >> (under desired folder path) ng new ProjectFolderName >> cd into ProjectFolderName >> ng serve (or first run "ng install" if "ng serve" doesn't work)
-
+- Angular vs ReactJS - React changes native html attribute names, for example class is classnames while Angular is built on Typescript. Angular is more suitable for companies with big teams, is more scalable, has free open source license unpatented like reactJS, Angular has steeper(greater) learning curve, takers longer development time due to lots of syntax load. There's no best tool, just use what suits company need. If you like simplicity, choose Vue or ReactJS.
 - Typescript is a strongly Typed and class-based Javascript.
 
 // URLs (Angular)
@@ -115,7 +116,7 @@
 - [Angular 2 vs Angular 4] (https://www.youtube.com/watch?v=qqk1g7CdYIE)
 - [Angular 2 vs Angular 4] (http://angularjs.blogspot.com/2017/03/angular-400-now-available.html)
 - [Detailed Documentation](https://angular.io/)
-- [Angular vs React] (https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc)
+- [Angular vs Reactjs] (https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc)
 
 // 
 Cloud Computing
@@ -144,12 +145,16 @@ Cloud Computing
 
 //
 - Dev Tools
-- Text Editors - https://atom.io, http://brackets.io, http://sublimetext.com/
-- Console Terminal Download (Use with any shell of choice, maybe Bash) - http://sourceforge.net/projects/console/
-- Console Terminal Setup - http://lifehacker.com/5834755/how-can-i-make-the-windows-command-prompt-better# (Go to Edit >> settings and add this under shell so as to point to GIT bash ("C:\Program Files (x86)\Git\bin\sh.exe" --login -i)
-- Bash Shell download - http://www.gnu.org/software/bash/
-- Bash shell explained - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
-// Great Study urls
+- Text Editors - [Atom](https://atom.io), [Brackets](http://brackets.io), [Sublime Text](http://sublimetext.com)
+- Console2 Terminal Download (http://sourceforge.net/projects/console/) - (Use with any shell of choice, maybe Bash)
+- [Console2 Terminal Setup] (http://lifehacker.com/5834755/how-can-i-make-the-windows-command-prompt-better#) (Go to Edit >> settings and add this under shell so as to point to GIT bash ("C:\Program Files (x86)\Git\bin\sh.exe" --login -i)
+- [Bash Shell download] (http://www.gnu.org/software/bash/)
+- [Bash shell explained] (http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
+
+// Research Study
+- Angular vs ReactJS
+
+// Great Research Study urls
 https://scotch.io/tutorials/javascript-promises-for-dummies
 https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc
 
