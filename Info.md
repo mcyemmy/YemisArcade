@@ -130,6 +130,7 @@
 - Template driven forms
 - Model Driven Forms
 - [CRUD operation](https://www.youtube.com/watch?v=DAUlZO2RALw&t=319s)
+- Routing
 - Lazy Loading
 - Ahead of Time Compilation
 - Binding, Property Binding - 
