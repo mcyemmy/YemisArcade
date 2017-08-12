@@ -114,10 +114,10 @@
 - [Quick overview using Dart instead of Typescript](https://webdev.dartlang.org/angular/guide/architecture)
 - [AngularJs 1 vs Angular 2](https://thinkster.io/tutorials/differences-between-angular-1-and-2)
 - [AngularJs 1 vs Angular 2](https://dzone.com/articles/typed-front-end-with-angular-2)
-- [Angular 2 vs Angular 4] (https://www.youtube.com/watch?v=qqk1g7CdYIE)
-- [Angular 2 vs Angular 4] (http://angularjs.blogspot.com/2017/03/angular-400-now-available.html)
+- [Angular 2 vs Angular 4](https://www.youtube.com/watch?v=qqk1g7CdYIE)
+- [Angular 2 vs Angular 4](http://angularjs.blogspot.com/2017/03/angular-400-now-available.html)
 - [Detailed Documentation](https://angular.io/)
-- [Angular vs Reactjs] (https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc)
+- [Angular vs Reactjs](https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc)
 
 
 // Angular Todo
@@ -129,7 +129,7 @@
 - Services and dependency injection
 - Template driven forms
 - Model Driven Forms
-- [CRUD operation] (https://www.youtube.com/watch?v=DAUlZO2RALw&t=319s)
+- [CRUD operation](https://www.youtube.com/watch?v=DAUlZO2RALw&t=319s)
 - Lazy Loading
 - Ahead of Time Compilation
 - Binding, Property Binding - 
@@ -164,9 +164,9 @@ Cloud Computing
 - Dev Tools
 - Text Editors - [Atom](https://atom.io), [Brackets](http://brackets.io), [Sublime Text](http://sublimetext.com)
 - Console2 Terminal Download (http://sourceforge.net/projects/console/) - (Use with any shell of choice, maybe Bash)
-- [Console2 Terminal Setup] (http://lifehacker.com/5834755/how-can-i-make-the-windows-command-prompt-better#) (Go to Edit >> settings and add this under shell so as to point to GIT bash ("C:\Program Files (x86)\Git\bin\sh.exe" --login -i)
-- [Bash Shell download] (http://www.gnu.org/software/bash/)
-- [Bash shell explained] (http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
+- [Console2 Terminal Setup](http://lifehacker.com/5834755/how-can-i-make-the-windows-command-prompt-better#) (Go to Edit >> settings and add this under shell so as to point to GIT bash ("C:\Program Files (x86)\Git\bin\sh.exe" --login -i)
+- [Bash Shell download](http://www.gnu.org/software/bash/)
+- [Bash shell explained](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
 
 // Research Study
 - Angular vs ReactJS
