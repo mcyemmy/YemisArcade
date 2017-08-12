@@ -119,6 +119,22 @@
 - [Detailed Documentation](https://angular.io/)
 - [Angular vs Reactjs] (https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc)
 
+
+// Angular Todo
+
+- Getting Started
+- Component and Modules
+- Attribute directives
+- Structural Directives
+- Services and dependency injection
+- Template driven forms
+- Model Driven Forms
+- [CRUD operation] (https://www.youtube.com/watch?v=DAUlZO2RALw&t=319s)
+- Lazy Loading
+- Ahead of Time Compilation
+- Binding, Property Binding - 
+- HTTP and Observables
+
 // 
 Cloud Computing
 
