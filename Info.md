@@ -45,7 +45,7 @@
 //
 - Javascript
 - Workshops -  http://nodeschool.io/#workshoppers
-- Online Books/Tutorials - [Angular 4 - From Theory to Practice](https://codecraft.tv/courses/angular/quickstart/overview/)http://speakingjs.com/es5/index.html, http://jstherightway.org, http://www.webmonkey.com/tutorials, http://www.xul.fr/javascript/, http://addyosmani.com/resources/essentialjsdesignpatterns/book/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+- Online Books/Tutorials - [Angular 4 - From Theory to Practice](https://codecraft.tv/courses/angular/quickstart/overview/), http://speakingjs.com/es5/index.html, http://jstherightway.org, http://www.webmonkey.com/tutorials, http://www.xul.fr/javascript/, http://addyosmani.com/resources/essentialjsdesignpatterns/book/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 - Books (on 4shared)- Pragmatic Programmer, javascript design pettern by Addy osmani(link above under online tutorial), JavaScript: The Good Parts, Pro JavaScript Design Patterns
 - Js interview questions - stackoverflow.com/questions/1684917/what-questions-should-a-javascript-programmer-be-able-to-answer
 - Javascript code should always be minified and obfuscated before deployment for security reasons.
