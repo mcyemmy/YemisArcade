@@ -127,23 +127,19 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 - [Angular 2 vs Angular 4](http://angularjs.blogspot.com/2017/03/angular-400-now-available.html)
 - [Detailed Documentation](https://angular.io/)
 - [Angular vs Reactjs](https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc)
-
-
-// Angular Todo
-
-- Getting Started
-- Component and Modules
-- Attribute directives
-- Structural Directives
-- Services and dependency injection
-- Template driven forms
-- Model Driven Forms
 - [CRUD operation](https://www.youtube.com/watch?v=DAUlZO2RALw&t=319s)
-- Routing
-- Lazy Loading
-- Ahead of Time Compilation
-- Binding, Property Binding - 
-- HTTP and Observables
+
+
+// GIT Commands
+- list directories - git ls-files | xargs -n 1 dirname | uniq
+- git checkout -f master - CHeckout master and lose unstaged changes for current branch
+- git stash - store unstaged changes for current branch before changing to another branch or master
+- git reset HEAD~  - undo the last commit and leave changes unstaged
+- git reset --soft HEAD~  - undo the last commit and leave changes staged
+- git add <file or filepath>
+- git checkout -- <file or filepath>..." to discard changes in working directory
+
+
 
 // 
 Cloud Computing
