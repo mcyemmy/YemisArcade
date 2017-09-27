@@ -115,6 +115,10 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 - Typescript is a strongly Typed and class-based Javascript.
 
 // URLs (Angular)
+- [Angular Schematics explained](https://medium.com/@feloy/creating-your-own-application-template-for-angular-cli-95e22319cc24)
+- [ng-packagr for packaging custom libraries](https://medium.com/@ngl817/building-an-angular-4-component-library-with-the-angular-cli-and-ng-packagr-53b2ade0701e)
+- [Do more with Angular cli](https://github.com/angular/angular-cli/wiki/stories)
+- [Chrome dev tool 2 and lighthouse](https://developers.google.com/web/updates/2017/05/devtools-release-notes#lighthouse)
 - [Quick Overview](https://codequs.com/p/Hyvz4TBK/angular-2-tutorial-the-architecture-of-an-angular-2-application/)
 - [Quick overview using Dart instead of Typescript](https://webdev.dartlang.org/angular/guide/architecture)
 - [AngularJs 1 vs Angular 2](https://thinkster.io/tutorials/differences-between-angular-1-and-2)
