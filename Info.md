@@ -138,7 +138,18 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 - git reset --soft HEAD~  - undo the last commit and leave changes staged
 - git add <file or filepath>
 - git checkout -- <file or filepath>..." to discard changes in working directory
+ - git push -u origin <branch> (or => push -u origin master ) - Push branch to remote repo
+ - git remote add origin <url/ssh> - Add path for remote repo to local repo
 
+
+//
+VsCode
+
+Ctrl+P - navigate to any file or symbol by typing its name
+Ctrl+Shift+Tab - cycle through the last set of files opened
+Ctrl+Shift+P - go directly to the editor commands
+Ctrl+Shift+O - navigate to a specific symbol in a file
+Ctrl+G - navigate to a specific line in a file
 
 
 // 
