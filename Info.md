@@ -128,6 +128,7 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 - [Detailed Documentation](https://angular.io/)
 - [Angular vs Reactjs](https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc)
 - [CRUD operation](https://www.youtube.com/watch?v=DAUlZO2RALw&t=319s)
+- [Angular HTTP testing](https://github.com/angular/angular/issues/18499)
 
 
 // GIT Commands
