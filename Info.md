@@ -129,6 +129,7 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 - [Angular vs Reactjs](https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc)
 - [CRUD operation](https://www.youtube.com/watch?v=DAUlZO2RALw&t=319s)
 - [Angular HTTP testing](https://github.com/angular/angular/issues/18499)
+- [Unit testing HttpClient in Angular 4.3 through Jasmine](https://stackoverflow.com/questions/45446680/unit-testing-httpclientmodule-in-angular-4-3-undefined-return-value-from-httpte)
 
 
 // GIT Commands
