@@ -134,14 +134,15 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 
 // GIT Commands
 - list directories - git ls-files | xargs -n 1 dirname | uniq
-- git checkout -f master - CHeckout master and lose unstaged changes for current branch
+- git checkout -f master - Checkout master and lose unstaged changes for current branch
 - git stash - store unstaged changes for current branch before changing to another branch or master
 - git reset HEAD~  - undo the last commit and leave changes unstaged
 - git reset --soft HEAD~  - undo the last commit and leave changes staged
 - git add <file or filepath>
-- git checkout -- <file or filepath>..." to discard changes in working directory
- - git push -u origin <branch> (or => push -u origin master ) - Push branch to remote repo
- - git remote add origin <url/ssh> - Add path for remote repo to local repo
+- git commit -m "write commit message here"
+- git push -u origin branchName (or => push -u origin master ) - Push branch to remote repo. First checkout master before issuing command
+- git remote add origin urlToAdd - Add path for remote repo to local repo
+- 
 
 
 //
