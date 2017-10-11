@@ -130,6 +130,7 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 - [CRUD operation](https://www.youtube.com/watch?v=DAUlZO2RALw&t=319s)
 - [Angular HTTP testing](https://github.com/angular/angular/issues/18499)
 - [Unit testing HttpClient in Angular 4.3 through Jasmine](https://stackoverflow.com/questions/45446680/unit-testing-httpclientmodule-in-angular-4-3-undefined-return-value-from-httpte)
+- [Creating Stub service for Angular Component testing, Or testing without making reference to a service](https://stackoverflow.com/questions/43306856/angular-testing-how-to-prevent-ngoninit-call-to-test-a-method-directly)
 
 
 // GIT Commands
