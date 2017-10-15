@@ -1,0 +1,54 @@
+<h2 class="big-heading" [translate]>{{'Fruit.List.Title'}}</h2>
+
+<!-- Display a loading indicator during startup. The loading property is enabled/disabled by the component class. -->
+<div *ngIf="loading">loading...</div>
+
+<bento-toolbar class="bento-toolbar" [items]="toolbarConfigurationData"></bento-toolbar>
+
+<!-- Declare the  Wijmo5 Flexgrid and bind it to the fruitList property on the component class. -->
+<!-- Note that this property must be of type wijmo.collections.CollectionView if the contents are delivered via a Promise. -->
+<!-- Note too that the selectionChanged grid event is mapped to the componponent's loadDetail event handler, and passes the generic event argument "$event" into the handler. -->
+<!-- The grid automatically provides an event argument object of type wijmo.grid.CellRangeEventArgs into the handler. -->
+<wj-flex-grid 
+    [(itemsSource)]="fruitList"      
+    [isReadOnly]="true" 
+    [selectionMode]="'ListBox'"
+    style="height: 500px;margin-top:10px"
+    selection-mode="Row"
+    is-read-only="true"
+    (selectionChanged)="loadDetail($event)">    
+    <wj-flex-grid-column header="{{'Common.Name' | translate}}" binding="common_name">
+        <!--Use a custom template to render the target url as an anchor tag. -->
+        <ng-template wjFlexGridCellTemplate [cellType]="'Cell'"  let-cell="cell">
+                <a href="{{cell.item.URL}}" target="new">{{cell.item.common_name}}</a>
+        </ng-template>
+    </wj-flex-grid-column>
+
+    <wj-flex-grid-column header="{{'Fruit.Species' | translate}}" binding="species"></wj-flex-grid-column>
+    <wj-flex-grid-column header="{{'Fruit.Region' | translate}}" binding="region"></wj-flex-grid-column>
+
+    <wj-flex-grid-column header="{{'Common.Image' | translate}}" binding="image_url">
+        <!--Use a custom template to render the image url's target image as a thumbnail. -->
+        <ng-template wjFlexGridCellTemplate [cellType]="'Cell'"  let-cell="cell">
+            <div>
+                <img src="{{cell.item.ImageURL}}" alt="{{cell.item.ImageURL}}" style="width:100px;height:100px;" />
+            </div>
+        </ng-template>
+    </wj-flex-grid-column>
+
+</wj-flex-grid>
+
+
+<!-- <h2>Dynamic Column Example</h2>
+<wj-flex-grid 
+    [(itemsSource)]="fruitList"      
+    [isReadOnly]="true" 
+    [selectionMode]="'ListBox'"
+    style="height: 500px;margin-top:10px"
+    selection-mode="Row"
+    is-read-only="true"
+    (selectionChanged)="loadDetail($event)">   
+
+    <wj-flex-grid-column  *ngFor="let col of gridcols" header="{{col.header}}" binding="{{col.binding}}" [width]="col.width" ></wj-flex-grid-column>
+
+</wj-flex-grid> -->
