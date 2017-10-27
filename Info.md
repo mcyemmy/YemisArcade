@@ -132,14 +132,19 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 - [Unit testing HttpClient in Angular 4.3 through Jasmine](https://stackoverflow.com/questions/45446680/unit-testing-httpclientmodule-in-angular-4-3-undefined-return-value-from-httpte)
 - [Creating Stub service for Angular Component testing, Or testing without making reference to a service](https://stackoverflow.com/questions/43306856/angular-testing-how-to-prevent-ngoninit-call-to-test-a-method-directly)
 
+//
+- VCS / GIT
+- Git Setup - http://rogerdudler.github.io/git-guide/, http://git-scm.com/
+- GIT Explained - http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1, http://rogerdudler.github.io/git-guide/, http://git-scm.com/
 
 // GIT Commands
 - list directories - git ls-files | xargs -n 1 dirname | uniqgit checkout .
 - git checkout . - Revert unstaged tracked files
-- git reflog - Print the commit that HEAD points to (The reflog isn't part of the repo itself and is stored separately to the commits themselves)
+- git reflog - Print a list of commit that local HEAD points to 
+- git reflog --format="%H" -n 1 - get the last commitID
 - git reset --soft **commitID** - Resets local directory back to a specific state before that commitID (shows files as staged)
-- git log - Print the commit that HEAD(and ancestry) points to
 - git diff-tree --no-commit-id --name-only -r **commitID** - list all files under this commitID
+- git log - Print a list of commit that remote HEAD(and ancestry) points to
 - git checkout -f master - Checkout master and lose unstaged changes for current branch
 - git stash - store unstaged changes for current branch before changing to another branch or master
 - git reset HEAD~  - undo the last commit and leave changes unstaged
@@ -149,7 +154,6 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 - git push -u origin branchName (or => push -u origin master ) - Push branch to remote repo. First checkout master before issuing command
 - git remote add origin urlToAdd - Add path for remote repo to local repo
 - 
-
 
 //
 VsCode
@@ -167,11 +171,6 @@ Cloud Computing
 - Google Cloud Compute Engine - It's Iaas, provision multiple private VMs, on a network of systems, having Persistent Disk, with Load balancing, connect and configure as desired, HTTP and JSON API(for Command line tool, developer console and more), develop and run applications with same access to all features, Automated process, distributed systems. 
 
 - Windows Azure -  It's Iaas + Paas together in one, provision and configure the VM infrastratures and Platform services you wish to work with, Quickly create and deploy projects without the rigorous IIS server process, Develop, run, test and publish apps in the azure cloud instead of localhost, customize the azure in visual studio 2015 or 16, specify vms to allocate to scale, review web role settings
-
-//
-- VCS / GIT
-- Git Setup - http://rogerdudler.github.io/git-guide/, http://git-scm.com/
-- GIT Explained - http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1, http://rogerdudler.github.io/git-guide/, http://git-scm.com/
 
 //
 - CSS
