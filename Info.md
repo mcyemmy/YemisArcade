@@ -134,7 +134,11 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 
 
 // GIT Commands
-- list directories - git ls-files | xargs -n 1 dirname | uniq
+- list directories - git ls-files | xargs -n 1 dirname | uniqgit checkout .
+- git checkout . - Revert unstaged tracked files
+- git reflog - Print the commit that HEAD points to (The reflog isn't part of the repo itself and is stored separately to the commits themselves)
+- git reset --soft **CommitNumber** - Resets local directory back to a specific state before that commit number(shows files as staged)
+- git log - Print the commit that HEAD(and ancestry) points to
 - git checkout -f master - Checkout master and lose unstaged changes for current branch
 - git stash - store unstaged changes for current branch before changing to another branch or master
 - git reset HEAD~  - undo the last commit and leave changes unstaged
