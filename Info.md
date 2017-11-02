@@ -140,6 +140,8 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 // GIT Commands
 - list directories - git ls-files | xargs -n 1 dirname | uniqgit checkout .
 - git checkout . - Revert unstaged tracked files
+- git reset HEAD~  - undo the last commit and leave changes unstaged
+- git reset --soft HEAD~  - undo the last commit and leave changes staged
 - git reflog - Print a list of commit that local HEAD points to 
 - git reflog --format="%H" -n 1 - get the last commitID
 - git reset --soft **commitID** - Resets local directory back to a specific state before that commitID (shows files as staged)
@@ -147,8 +149,6 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 - git log - Print a list of commit that remote HEAD(and ancestry) points to
 - git checkout -f master - Checkout master and lose unstaged changes for current branch
 - git stash - store unstaged changes for current branch before changing to another branch or master
-- git reset HEAD~  - undo the last commit and leave changes unstaged
-- git reset --soft HEAD~  - undo the last commit and leave changes staged
 - git add <file or filepath>
 - git commit -m "write commit message here"
 - git push -u origin branchName (or => push -u origin master ) - Push branch to remote repo. First checkout master before issuing command
