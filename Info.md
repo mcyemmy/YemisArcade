@@ -146,6 +146,7 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 - git reflog --format="%H" -n 1 - get the last commitID
 - git reset --soft **commitID** - Resets local directory back to a specific state before that commitID (shows files as staged)
 - git diff-tree --no-commit-id --name-only -r **commitID** - list all files under this commitID
+- git diff --name-status branchNameToCompare
 - git log - Print a list of commit that remote HEAD(and ancestry) points to
 - git checkout -f master - Checkout master and lose unstaged changes for current branch
 - git stash - store unstaged changes for current branch before changing to another branch or master
