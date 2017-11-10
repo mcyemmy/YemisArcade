@@ -28,6 +28,7 @@
 - [API](https://www.programmableweb.com)
 - [API Directory](https://www.programmableweb.com/apis/directory)
 - *Others** - css-tricks, sixrevisions, techcrunch, sitepoint, tutsplus, techrepublic, geek.com
+- **Read books AND Practice well**. Use videos only for introduction(getting started) AND for gaining clarity on any confusing topic
 
 // 
 - MobileAppDev
