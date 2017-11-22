@@ -270,10 +270,6 @@ html-utils - dom-head.html
 
 style-utils -- variables.scss, mixins.scss, ie.scss
 
-vs-code-settings-sync
-966d9c816bb850e5df05ffc0af1b0ff6f1d209c8
-
-
 //
  - ********************************************************************
 - But you are a chosen generation, a royal priesthood, a holy nation, GOd's peculiar people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light; 1 Peter 2:9
