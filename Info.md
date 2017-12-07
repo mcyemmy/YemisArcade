@@ -155,6 +155,8 @@ https://blog.nrwl.io/angular-is-aot-worth-it-8fa02eaf64d4
 - git add <file or filepath>
 - git commit -m "write commit message here"
 - git push -u origin branchName (or => push -u origin master ) - Push branch to remote repo. First checkout master before issuing command
+- $ git push -d origin> <branch_name> - Delete branch from remote
+- $ git branch -d <branch_name> - Delete branch locally
 - git remote add origin urlToAdd - Add path for remote repo to local repo
 - 
 
